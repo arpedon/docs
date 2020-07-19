@@ -1,0 +1,819 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Arpedon
+# This file is distributed under the same license as the Mechbase package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mechbase \n"
+"Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
+"POT-Creation-Date: 2020-04-23 10:04+0300\n"
+=======
+"POT-Creation-Date: 2020-04-07 09:13+0300\n"
+>>>>>>> a4b5709c9fbb9ebbb98150b851d378802d6ea4b5
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:2
+msgid "3. Σημεία Μέτρησης"
+msgstr "3. Measurement Points "
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:5
+msgid "3.1 Δημιουργία σημείου μέτρησης"
+msgstr "3.1 Creating a measurement point"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:7
+msgid ""
+"Επιλέγετε το επίπεδο στο οποίο θέλετε να δημιουργήσετε ένα σημείο "
+"μέτρησης είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας."
+msgstr ""
+"Select the level at which you want to create a measurement point either "
+"from the tree or from the platform homepage."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:13
+msgid ""
+"Κλικάροντας 'New', στην νέα οθόνη, εμφανίζεται η φόρμα δημιουργίας "
+"σημείου μέτρησης."
+msgstr ""
+"Clicking 'New' on the new screen, the measurement point form creation "
+"appears."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:17
+msgid "**Φόρμα δημιουργίας σημείου μέτρησης**"
+msgstr "**Measurement point creation form**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:20
+msgid "Γενικά"
+msgstr "General"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:22
+msgid ""
+"**Name:** Όνομα σημείου. Είναι ελεύθερο πεδίο. Προτείνεται ονομασία βάση "
+"τυποποίησης MIMOSA ή βάση του συστήματος οργάνωσης που χρησιμοποιείτε."
+msgstr ""
+"**Name:** Point name. It is a free field. It is recommended that you use "
+"a name according to the MIMOSA standardization or the organization system"
+" you are using."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:24
+<<<<<<< HEAD
+=======
+#, fuzzy
+>>>>>>> a4b5709c9fbb9ebbb98150b851d378802d6ea4b5
+msgid ""
+"**Instructions:** Οδηγίες για τη σωστή εκτέλεση της μέτρησης. "
+"Εμφανίζονται στην εφαρμογή κατά τη μέτρηση."
+msgstr ""
+"**Instructions:** These are instructions for performing the measurement "
+"correctly. They appear on application during measurement."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:26
+msgid "**Measurement type:** Το είδος του αισθητήρα / μέτρησης."
+msgstr "**Measurement type:** The type of sensor / measurement."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:28
+msgid "Single axis accelerometer: Επιταχυνσιόμετρο μονού άξονα"
+msgstr "Single axis accelerometer"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:30
+msgid "Triaxial accelerometer: Επιταχυνσιόμετρο τριών διαστάσεων"
+msgstr "Triaxial accelerometer: Three-dimensional accelerometer"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:32
+msgid ""
+"Single axis accelerometer with internal integration: Επιταχυνσιόμετρο με "
+"ενσωματωμένο ολοκληρωτή (ταχύτητας, μετατόπισης)"
+msgstr ""
+"Single axis accelerometer with internal integration: Accelerometer with "
+"built-in integrator (speed, displacement)"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:34
+msgid "Current: Ρεύμα"
+msgstr "Current"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:36
+msgid "Displacement probe: Απόκλισης"
+msgstr "Displacement probe: Deviation"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:38
+msgid "Displacement probe used as a phase reference: Απόκλισης για εύρεση φάσης"
+msgstr "Displacement probe used as a phase reference: Deviation for finding phase"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:40
+msgid "Operating hours: Ώρες λειτουργίας"
+msgstr "Operating hours"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:42
+msgid ""
+"Linear voltage differential transformer: Γραμμικός διαφορικός "
+"μετασχηματιστής"
+msgstr "Linear voltage differential transformer"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:44
+msgid "Lubrication: Λίπανσης"
+msgstr "Lubrication"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:46
+msgid "Microphone: Μικρόφωνο"
+msgstr "Microphone"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:48
+msgid "Magnetic pickup: Μαγνητικός αισθητήρας"
+msgstr "Magnetic pickup"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:50
+msgid "Multiple sensors: Πολλαπλοί αισθητήρες (ταυτόχρονα)"
+msgstr "Multiple sensors"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:52
+msgid "Optical boolean (true/false): Οπτικό Ναι/Όχι"
+msgstr "Optical boolean (true/false)"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:54
+msgid ""
+"Optical pickup (shaft speed/phase reference): Οπτική αναφορά ταχύτητας, "
+"φάσης"
+msgstr "Optical pickup (shaft speed/phase reference)"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:56
+msgid "Optical numerical: Νούμερο"
+msgstr "Optical numerical: Number"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:58
+msgid "Optical image: Εικόνα"
+msgstr "Optical image"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:60
+msgid "Optical free text: Ελεύθερο κείμενο"
+msgstr "Optical free text"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:62
+msgid "Pressure dynamic sensor: Δυναμική πίεση"
+msgstr "Pressure dynamic sensor"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:64
+msgid "Pressure static sensor: Στατική πίεση"
+msgstr "Pressure static sensor"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:66
+msgid "Tachometer: Ταχόμετρο"
+msgstr "Tachometer"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:68
+msgid "Thermography: Θερμογραφία"
+msgstr "Thermography"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:70
+msgid "Temperature sensor: Θερμοκρασία"
+msgstr "Temperature sensor"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:72
+msgid "Ultrasound: Υπέρηχος"
+msgstr "Ultrasound"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:74
+msgid "Voltage: Τάση"
+msgstr "Voltage"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:76
+msgid ""
+"**Measurement point order:** Η σειρά με την οποία το σημείο μέτρησης θα "
+"βρίσκεται μέσα σε μια διαδρομή."
+msgstr ""
+"**Measurement point order:** The order that this measurement point will "
+"be within a route."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:78
+msgid "**Angular orientation, Axis direction και Direction of motion**"
+msgstr "**Angular orientation, Axis direction και Direction of motion**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:80
+msgid ""
+"Το λογισμικό υποστηρίζει το σύστημα τυποποιημένης οργάνωσης σημείων "
+"μέτρησης Mimosa Standard."
+msgstr ""
+"The software supports the standard measurement point organization system "
+"*Mimosa Standard*."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:82
+msgid ""
+"Τα πεδία Angular orientation, Axis direction και Direction of motion "
+"απαντώνται σε αυτή την τυποποίηση και η συμπλήρωσή τους προτείνεται αλλά "
+"δεν είναι απαραίτητη."
+msgstr ""
+"The fields *Angular orientation*, *Axis direction* and *Direction of "
+"motion* meet this standardization and their completion is suggested but "
+"not necessary."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:84
+msgid "**Angular orientation**"
+msgstr "**Angular orientation:**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:86
+msgid ""
+"Οριζόντιες μηχανές - Ο γωνιακός προσανατολισμός ενός αισθητήρα δονήσεων "
+"μετράται από τη μηδενική αναφορά που βρίσκεται στις 3 η ώρα ρολογιού "
+"κοιτάζοντας τη μηχανή απο το πίσω μέρος της. Δηλαδή το 000 στην παρακάτω "
+"εικόνα."
+msgstr ""
+"Horizontal Machines - The angular orientation of a vibration transducer "
+"is measured from a zero reference located at 3 O’clock when viewed at "
+"position number 001, looking into the machine. The 000 of the image "
+"bellow."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:90
+msgid ""
+"Κάθετες μηχανές - Η αναφορά μηδενός βρίσκεται στην κατεύθυνση ροής με "
+"γωνιακό προσανατολισμό που μετριέται αριστερόστροφα στο επίπεδο "
+"περιστροφής του άξονα όταν το κοιτάζουμε από πάνω (θέση 001) προς τα κάτω"
+" στην παρακάτω εικόνα."
+msgstr ""
+"Vertical machines:  The zero reference is located in the direction of "
+"flow with angular orientation measured counterclockwise in the plane of "
+"shaft rotation when viewed from the top (position 001) looking down in "
+"the image bellow"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:94
+msgid "**Αxis direction:**"
+msgstr "**Αxis direction:**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:96
+msgid ""
+"Radial - Ο άξονας αισθητήρα είναι κάθετος προς και διέρχεται από τον "
+"άξονα."
+msgstr ""
+"Radial - The transducer sensitive axis is perpendicular to and passes "
+"through the shaft axis."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:98
+msgid "Axial - Ο άξονας αισθητήρα είναι παράλληλος προς τον άξονα."
+msgstr "Axial -The transducer sensitive axis is parallel to the shaft axis."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:100
+msgid ""
+"Tangential - Ο άξονας αισθητήρα είναι κάθετος σε έναν ακτινικό στο "
+"επίπεδο περιστροφής του άξονα."
+msgstr ""
+"Tangential - The transducer sensitive axis is perpendicular to a radial "
+"in the plane of shaft rotation."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:102
+msgid "Horizontal - Ο άξονας αισθητήρα βρίσκεται μόνο σε 000 ή 180 μοίρες."
+msgstr ""
+"Horizontal -The transducer sensitive axis is located at 000 or 180 "
+"degrees only."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:104
+msgid "Vertical - Ο άξονας αισθητήρα βρίσκεται μόνο σε 090 ή 270 μοίρες."
+msgstr ""
+"Vertical - The transducer sensitive axis located at 090 or 270 degrees "
+"only."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:108
+msgid "**Direction of motion:**"
+msgstr "**Direction of motion:**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:110
+msgid ""
+"Ο αξονικός αισθητήρας που βρίσκεται πλησιέστερος προς το άκρο αναφοράς "
+"του συστήματος μηχανήματος, θέση 001, ονομάζεται κανονικός (Νormal) όταν "
+"τοποθετηθεί έτσι ώστε η θετική κίνηση προς τον μετατροπέα να παράγει μια "
+"θετική έξοδο σήματος."
+msgstr ""
+"The axial transducer closest to the reference end of the machine system, "
+"position 001, will be designated normal (N) when mounted such that "
+"positive motion toward the transducer produces a positive signal output."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:112
+msgid ""
+"Η κίνηση προς το άκρο αναφοράς θα παράγει ένα αρνητικό σήμα από τον "
+"αξονικό μετατροπέα στο αντίθετο άκρο, ο οποίος ονομάζεται αντόστροφος "
+"(Reverse)."
+msgstr ""
+"The motion toward the reference end will produce a negative signal from "
+"the axial transducer at the opposite end which is then designated R "
+"(reverse)."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:115
+msgid "Acquisition settings"
+msgstr "Acquisition settings"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:117
+msgid "**Για υψηλής ανάλυσης σήματα**"
+msgstr "**For high resolution signals**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:119
+msgid ""
+"Για τους αισθητήρες επιταχύνσεων, τάσης, έντασης και υπερήχων συνήθως "
+"θέλουμε να καταγράψουμε χρονοσειρά για περαιτέρω ανάλυση του σήματος."
+msgstr ""
+"For acceleration, voltage, intensity and ultrasound sensors we usually "
+"want to record time series for further signal analysis."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:121
+msgid "Οι παρακάτω ρυθμίσεις αφορούν τη δυνατότητα αυτή."
+msgstr "The following settings apply to this feature."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:123
+msgid ""
+"**Reference(V):** Το προτιμόμενο εύρος του συστήματος δειγματοληψίας σε "
+"μονάδες τάσης."
+msgstr "**Reference(V):** The preferred range of sampling system in voltage units."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:125
+msgid "**FFT Lines:** Οι γραμμές FFT."
+msgstr "**FFT Lines:** The FFT lines."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:127
+msgid "**Maximum frequency(RPM):** H μέγιστη συχνότητα σε RPM."
+msgstr "**Maximum frequency(RPM):** The maximum frequence in RPM."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:129
+msgid ""
+"**Sampling rate(Auto, Hz):** O δείκτης δειγματοληψίας, υπολογίζεται "
+"αυτόματα σε Hz."
+msgstr ""
+"**Sampling rate(Auto, Hz):** The sampling index is calculated "
+"automatically in Hz."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:131
+msgid ""
+"**Sampling duration(Auto, s):** O χρόνος δειγματοληψίας, υπολογίζεται "
+"αυτόματα σε δευτερόλεπτα."
+msgstr ""
+"**Sampling duration(Auto, s):** The sampling time is calculated "
+"automatically in seconds."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:133
+msgid ""
+"**Settling time(s):** O χρόνος αναμονής πριν την έναρξη της μέτρησης σε "
+"δευτερόλεπτα."
+msgstr ""
+"**Settling time(s):** The waiting time before the start of the "
+"measurement in seconds."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:135
+msgid "**Για οποιοδήποτε σήμα**"
+msgstr "**For any signal**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:137
+msgid ""
+"Το αποτέλεσμα της μέτρησης από την κάρτα δειγματοληψίας των οργάνων "
+"εξάγεται από την εξίσωση:"
+msgstr ""
+"The result of the measurement by the instrument sampling card is "
+"extracted from the equation:"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:139
+msgid "Final = (Voltage + Offset) * \\frac{1000}{Sensitivity}"
+msgstr "Final = (Voltage + Offset) * \\frac{1000}{Sensitivity}"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:143
+msgid "**Sensitivity(mV/unit):** Η ευαισθησία του σήματος."
+msgstr "**Sensitivity(mV/unit):** The sensitivity of the signal."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:145
+msgid "**dB Reference(V):** Τα dB αναφοράς (για μεγέθη σε dB)."
+msgstr "**dB Reference(V):** The reference dB (for sizes in dB)."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:147
+msgid "**Offset(V):** Η απόκλιση."
+msgstr "**Offset(V)**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:149
+msgid "Για να ανοίξετε τη λίστα 'Acquisition settings', κλικάρετε το βελάκι."
+msgstr "To open the 'Acquisition settings' list, click the arrow."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:156
+msgid "Trending values"
+msgstr "Trending values"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:158
+msgid ""
+"Συχνά μας ενδιαφέρει να παρακολουθούμε κάποια χαρακτηριστικά ενός σήματος"
+" υψηλής ανάλυσης όπως επιταχύνσεων, υπερήχων ή ρεύματος."
+msgstr ""
+"We are often interested in tracking some features of a high analysis "
+"signal such as acceleration, ultrasound or current."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:160
+msgid "Η συγκεκριμένη λειτουργία επιτρέπει αυτή την παρακολούθηση."
+msgstr "This specific function allows this monitoring."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:162
+msgid ""
+"Μπορούμε να ορίσουμε αυτοματοποιημένους υπολογισμούς για κάθε νέα μέτρηση"
+" που θα έχουν τις παρακάτω επιλογές."
+msgstr ""
+"We can set automated calculations for each new measurement which will "
+"have the following options."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:164
+msgid "**Name:** Το όνομα της τιμής μέτρησης (πχ. RMS 500-700 Hz)."
+msgstr "**Name:** The name of the measurement value (eg RMS 500-700 Hz)."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:166
+msgid ""
+"**Integration:** Η ολοκλήρωση. Επιλογές: No, First (Speed), Second "
+"(Displacement)."
+msgstr ""
+"**Integration:** The completion. Choices: No, First (Speed), Second "
+"(Displacement)."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:168
+msgid ""
+"**Detection:** Η ανίχνευση της τιμής. Επιλογές: RMS, Crest Factor, Peak "
+"to Peak, True Peak, FFT bin."
+msgstr ""
+"**Detection:** Value Detection. Options: RMS, Crest Factor, Peak\"\"to "
+"Peak, True Peak, FFT bin."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:170
+msgid "**Units:** Οι μονάδες μέτρησης."
+msgstr "**Units:** The measurement units."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:172
+msgid "**High Pass:** Το υψηπερατό φίλτρο σε Hz."
+msgstr "**High Pass:** The high-pass filter in Hz."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:174
+msgid "**Low Pass:** Το χαμηλοπερατό φίλτρο σε Hz."
+msgstr "**Low Pass:** The low-pass filter in Hz."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:176
+msgid ""
+"Για να συμπληρώσετε τα στοιχεία των Trending values, κλικάρετε το βελάκι "
+"και στη συνέχεια το κουμπί 'Add trending value'."
+msgstr ""
+"To complete the Trending values, click the arrow and then the 'Add "
+"trending value' button."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:178
+msgid ""
+"Αν θέλετε να προσθέσετε παραπάνω απο ένα trending value, ξαναπατάτε το "
+"κουμπί και μια νέα λίστα θα εμφανιστεί απο κάτω απο αυτή που "
+"συμπληρώσατε."
+msgstr ""
+"If you want to add more than one trending value, click the button again "
+"and a new list will appear below the one that you have completed."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:187
+msgid ""
+"Όταν έχετε ολοκληρώσει την εισαγωγή των στοιχείων, κλικάρετε 'Create' στο"
+" τέλος της φόρμας."
+msgstr "Fill in the point details and click 'Create' at the end of the form."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:193
+msgid "3.2 Επεξεργασία σημείου μέτρησης"
+msgstr "3.2 Editing a measurement point"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:195
+msgid ""
+"Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να "
+"επεξεργαστείτε είτε απο το δέντρο είτε απο την αρχική σελίδα της "
+"πλατφόρμας."
+msgstr ""
+"Select and click the level with the measurement point you want to edit "
+"either from the tree or from the platform's homepage."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:201
+msgid ""
+"Στην οθόνη που εμφανίζεται, κλικάρετε το 'μολύβι' του σημείου μέτρησης "
+"που θέλετε να επεξεργαστείτε."
+msgstr ""
+"On the screen that appears, click on the 'pencil' of the measurement "
+"point that you want to edit."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:205
+msgid ""
+"Στη φόρμα που εμφανίζετε, αλλάζετε τα στοιχεία που θέλετε και κλικάρετε "
+"'Update'"
+msgstr ""
+"In the form that appears, change the information you want and click "
+"'Update'."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:212
+msgid "3.3 Μετακίνηση σημείου μέτρησης"
+msgstr "3.3 Moving a measurement point"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:214
+msgid ""
+"Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να "
+"μετακινήσετε είτε απο το δέντρο είτε απο την αρχική σελίδα της "
+"πλατφόρμας."
+msgstr ""
+"Select and click the level with the measurement point you want to move "
+"either from the tree or from the platform's homepage."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:220
+msgid ""
+"Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να "
+"μετακινήσετε."
+msgstr ""
+"On the screen that appears, click on the measurement point we want to "
+"move."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:224
+msgid ""
+"Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο "
+"'Move'."
+msgstr "On the screen that appears, click on 'Menu' and then on 'Move'."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:228
+msgid ""
+"Στη φόρμα που εμφανίζεται, κλικάρετε το βελάκι και στο πλαίσιο 'Search' "
+"πληκτρολογείτε το επίπεδο στο οποίο θέλετε να μετακινήσετε το σημείο "
+"μέτρησης. Απο κάτω θα εμφανιστεί το όνομα του επίπεδου που "
+"πληκτρολογήσατε. Το κλικάρετε και πατάτε 'Submit'."
+msgstr ""
+"In the form that appears, click the arrow and in the 'Search' box type "
+"the level you want to move the measurement point to. Below the name of "
+"the layer you typed is displayed. Click it and click 'Submit'."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:237
+msgid "3.4 Διαγραφή σημείου μέτρησης"
+msgstr "3.4 Deleting a measurement point"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:239
+msgid ""
+"Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να "
+"διαγράψετε είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας."
+msgstr ""
+"Select and click the level with the measurement point you want to delete "
+"either from the tree or from its platform's homepage."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:245
+msgid ""
+"Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να "
+"διαγράψετε."
+msgstr ""
+"On the screen that appears, click on the measurement point you want to "
+"delete."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:249
+msgid ""
+"Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο "
+"'Delete'."
+msgstr "On the screen that appears, click on 'Menu' and then on 'Delete'."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:253
+msgid ""
+"Στο παράθυρο που θα εμφανιστεί στο πάνω μέρος της σελίδας το οποίο σας "
+"ρωτάει αν είσαστε σίγουροι οτι θέλετε να διαγράψετε το σημείο, κλικάρετε "
+"'ΟΚ'. Σε περίπτωση που δεν θέλετε να το διαγράψετε, πατάτε 'Cancel'"
+msgstr ""
+"In the window that will appear at the top of your page and asks if you "
+"are sure you want to delete the point, click 'OK'. If you don't want to "
+"delete it, click 'Cancel'."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:259
+msgid "3.5 Συναγερμοί"
+msgstr "3.5 Alarms"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:260
+msgid ""
+"Οι συναγερμοί σε ένα πρόγραμμα διαγνωστικής συντήρησης είναι εξαιρετικά "
+"κρίσιμοι γιά την αποδοτικότητα της διαδικασίας. Δείχνουν που πρέπει να "
+"επικεντρωθεί η προσοχή του χρήστη."
+msgstr ""
+"Alarms in a diagnostic maintenance program are critical for the "
+"efficiency of the process. They show where the user’s attention should be"
+" focused."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:262
+msgid ""
+"Αυτό γιατί οι περισσότερες μηχανές σε μία εγκατάσταση δεν παρουσιάζουν "
+"προβλήματα. Τελικά αν οι συναγερμοί τεθούν σωστά ο χρήστης θα ασχοληθεί "
+"με τα πάγια που έχουν πραγματικά πρόβλημα."
+msgstr ""
+"This is because most machines in a plant do not show any problems. "
+"Eventually if the alarms are set correctly the user will deal with assets"
+" that have a real problem."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:265
+msgid "Simple alarms"
+msgstr "Simple alarms"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:267
+msgid ""
+"Η πιο απλή μέθοδος συναγερμών είναι η σύγκριση τρέχουσα τιμής με την τιμή"
+" βάσης."
+msgstr ""
+"The simplest alarm method is the comparison of the current value with the"
+" base value."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:269
+msgid ""
+"Ο χρήστης γνωρίζοντας το επίπεδο συναγερμού που θέλει να θέσει μεταβαίνει"
+" στο σημείο μέτρησης. Εκεί θα συναντήσει την επιλογή: **Simple Alarms**"
+msgstr ""
+"The user knowing the alarm level he would like to set, transitions to the"
+" measurement point. There he will come across the option: "
+"**SimpleAlarms**"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:271
+msgid "Στη συνέχεια θα θέσει τους συναγερμούς για κάθε trending value."
+msgstr "Next he will set the alarm for every trending value."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:275
+msgid "Για να επικυρώσει την επιλογή θα επιλέξει **Update alarms**."
+msgstr "To confirm he will choose **Update alarms**."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:278
+msgid "Statistical alarms"
+msgstr ""
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:280
+msgid ""
+"Μεταβολή όμως στην λειτουργία του εξοπλισμού (ταχύτητα, φορτίο) ή ακόμα "
+"και στις περιβαλλοντικές συνθήκες μεταβάλει το μέγεθος που μετράνε οι "
+"αισθητήρες που χρησιμοποιούμε δημιουργώντας τον κίνδυνο εμφάνισης "
+"ψευδο-συναγερμών. Αυτοί μειώνουν την εμπιστοσύνη στο σύστημα διαγνωστικής"
+" συντήρησης που έχει εφαρμοσθεί ενισχύοντας τον κίνδυνο για απόκρυψη της "
+"πραγματικής βλάβης."
+msgstr ""
+"However, changes in the operation of the equipment (speed, load) or even "
+"environmental conditions changes, can affect the size that the sensors we"
+" use measure creating the risk of false alarms. These reduce confidence "
+"in the diagnostic maintenance system implemented by enhancing the risk of"
+" hiding real damage."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:282
+msgid ""
+"Η διεθνής κοινότητα της συντήρησης για να καταπολεμήσει το φαινόμενο "
+"προτείνει όλο και περισσότερο τη χρήση στατιστικών μεθόδων για την "
+"παρακολούθηση του εξοπλισμού. Η στατιστική ανάλυση στην πραγματικότητα "
+"εξηγεί πόσο κάτι αποκλίνει από την «κανονική» κατάσταση."
+msgstr ""
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:284
+msgid ""
+"Η μέθοδος στηρίζεται στην έννοια της τυπικής απόκλισης ή σ. Πρόκειται για"
+" μία κατανομή των δεδομένων που περιγράφεται οπτικά από την παρακάτω "
+"εικόνα:"
+msgstr ""
+"The international maintenance community is increasingly recommending the "
+"use of statistic methods for monitoring equipment to combat the "
+"phenomenon. The statistical analysis explains how much something can "
+"deviate from the ‘normal’ situation. This method is based on the notion "
+"of standard deviation or σ. The distribution of data is visually "
+"described by the following figure:"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:288
+msgid ""
+"Οι μετρήσεις που απέχουν μέχρι 1 x σ από το μέσο όρο αποτελούν το 68% των"
+" μετρήσεων ενώ οι μετρήσεις που απέχουν μέχρι 2 x σ αποτελούν το 95% των "
+"μετρήσεων. Όπως γίνεται κατανοητό δεδομένα ακόμα πιο μακριά από το κέντρο"
+" είναι σίγουρα ενδείξεις ότι η μηχανή λειτουργεί όπως εκτός "
+"«κανονικότητας»."
+msgstr ""
+"Measurements up to 1 x σ from the average, constitute the 68% of the "
+"measurements while measurements up to 2 x σ constitute the 95% of the "
+"measurements. As can be understood, data even further from the center are"
+" certainly indications that the machine’s operating condition is outside "
+"‘normal’."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:290
+msgid ""
+"Στα πλαίσια της διαρκούς βελτίωσης του λογισμικού μας DataRunner "
+"προσθέσαμε ένα βοηθό οδηγό για τον ορισμό στατιστικών συναγερμών."
+msgstr ""
+"As part of the continuous improvement of our Mechbase software, we have "
+"added an assistant guide for the definition of statistical alarms."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:292
+msgid ""
+"Ο χρήστης έχοντας συλλέξει δεδομένα με όποια από τις υποστηριζόμενες  "
+"μεθόδους, μεταβαίνει στο  σημείο μέτρησης. Εκεί θα συναντήσει την "
+"επιλογή: **Statistical Alarms**"
+msgstr ""
+"The user having collected data with any of the supported methods, "
+"transitions to the measurement point. There they will come across the "
+"option: Statistical Alarms"
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:296
+msgid ""
+"Στη συνέχεια θα κληθεί να επιλέξει τη μέτρηση στην οποία θα βασιστεί.  "
+"Για μετρήσεις ταλαντώσεων αυτό μπορεί να είναι RMS, Peak, Peak-to-Peak, "
+"Crest factor επιτάχυνσης/ταχύτητας/μετατόπισης. Αναφορικά με φασματική "
+"ανάλυση στατιστικοί συναγερμοί εφαρμόζονται επίσης σε τιμή περιοχής "
+"φάσματος."
+msgstr ""
+"Then they will be asked to choose the measurement on which they will be "
+"based on. For oscillation measurements this might be RMS, Peak, Peak-to-"
+"Peak, Crest factor acceleration/velocity/offset. Regarding spectral "
+"analysis statistical alarms are also applied to arrange region value."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:300
+msgid ""
+"Με βάση τις μετρήσεις που επιλέχτηκαν ο οδηγός προτείνει τιμές για τους "
+"συναγερμούς. Σε αυτό το σημείο χρήστης ο οποίος γνωρίζει τη συμπεριφορά "
+"του μηχανήματος μπορεί αν θέλει να πραγματοποιήσει αλλαγές και τελικά να "
+"οριστικοποιήσει τους συναγερμούς."
+msgstr ""
+"Based on the measurements selected, the guide suggests values for the "
+"alarms. At this point the used who is acquainted with the machine’s "
+"behavior may want to make changed and eventually finalize the alarms."
+
+#: ../../source/Maintenance/Mechbase/measurementpoints.rst:306
+msgid ""
+"Για ένα πρόγραμμα διαγνωστικής συντήρησης ο χρόνος που δαπανούμε στον "
+"ορισμό των συναγερμών είναι από τις πιο συμφέρουσες δαπάνες σε όλο το "
+"πρόγραμμα. Φροντίζουμε οι δαπάνες αυτές να είναι ακόμα μικρότερες "
+"βελτιστοποιώντας το αποτέλεσμα."
+msgstr ""
+
+#~ msgid "**Οδηγίες συμπλήρωσης φόρμας**"
+#~ msgstr "**Instructions for completion of the form**"
+
+#~ msgid "Τι είναι το Instructions, που χρησιμεύει:"
+#~ msgstr "What is Instructions, and what is it used for:"
+
+#~ msgid ""
+#~ "Είναι οδηγίες για τη σωστή εκτέλεση "
+#~ "της μέτρησης. Εμφανίζονται στην εφαρμογή "
+#~ "κατά τη μέτρηση."
+#~ msgstr ""
+#~ "They are instructions for performing the"
+#~ " measurement correctly. They appear on "
+#~ "application during measurement."
+
+#~ msgid "Τι τύποι μετρήσεων υποστηρίζονται (Measurement type):"
+#~ msgstr "What measurement types are supported:"
+
+#~ msgid "**Τα στοιχεία που μπορείτε να καταχωρήσετε στη φόρμα είναι:**"
+#~ msgstr "**The information you can enter on the form is:**"
+
+#~ msgid "**Name:** Το όνομα του σημείου μέτρησης."
+#~ msgstr "**Name:** The measurement point name."
+
+#~ msgid "**Angular orientation:** O γωνιακός προσανατολισμός της μηχανής."
+#~ msgstr "**Angular orientation:** The angular orientation of the machine."
+
+#~ msgid "**Αxis direction:** H κατεύθυνση του άξονα."
+#~ msgstr "**Αxis direction:** The direction of the axis"
+
+#~ msgid "**Direction of motion:** Η κατεύθυνση της κίνησης."
+#~ msgstr "**Direction of motion:** The direction of motion"
+
+#~ msgid "**Reference(V):**"
+#~ msgstr "**Reference(V):**"
+
+#~ msgid "**Integration:** Η ενσωμάτωση."
+#~ msgstr "**Integration:** The integration."
+
+#~ msgid "**Detection:** Η ανίχνευση της τιμής."
+#~ msgstr "**Detection:** The detection of the value."
+
+#~ msgid "**High Pass:**"
+#~ msgstr "**High Pass:**"
+
+#~ msgid "**Low Pass:**"
+#~ msgstr "**High Pass:**"
+
+#~ msgid "Single axis accelerometer: Επιταχυνσιόμετρο μονού άξονα"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Integration:** Η ολοκλήρωση. Επιλογές: No,"
+#~ " First (Speed), Second (Displacement)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Detection:** Η ανίχνευση της τιμής. "
+#~ "Επιλογές: RMS, Crest Factor, Peak to "
+#~ "Peak, True Peak, FFT bin"
+#~ msgstr ""
+
+#~ msgid "**High Pass:** Το υψηπερατό φίλτρο σε Hz"
+#~ msgstr ""
+
+#~ msgid "**Low Pass:** Το χαμηλοπερατό φίλτρο σε Hz"
+#~ msgstr ""
+
+#~ msgid "Single axis accelerometer: Single axis accelerometer"
+#~ msgstr "Single axis accelerometer"
+
+#~ msgid ""
+#~ "*Οριζόντιες μηχανές - Οριζόντιες μηχανές "
+#~ "- Ο γωνιακός προσανατολισμός ενός "
+#~ "αισθητήρα δονήσεων μετράται από τη "
+#~ "μηδενική αναφορά που βρίσκεται στις 3"
+#~ " η ώρα ρολογιού κοιτάζοντας τη μηχανή"
+#~ " απο το πίσω μέρος της. Δηλαδή "
+#~ "το 000 στην παρακάτω εικόνα."
+#~ msgstr ""
+#~ "Horizontal Machines - The angular "
+#~ "orientation of a vibration transducer is"
+#~ " measured from a zero reference "
+#~ "located at 3 O’clock when viewed "
+#~ "at position number 001, looking into "
+#~ "the machine. The 000 of the image"
+#~ " bellow"
+
