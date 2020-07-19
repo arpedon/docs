@@ -25,10 +25,3 @@ Arpedon Products
    :caption: Συντήρηση ακριβείας
 
    Maintenance/Precision-Maintenance/grease-calculator
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Language
-
-   English <http://docs.arpedon.com/en/>
-   Greek <http://docs.arpedon.com/el/>
