@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-17 13:54+0300\n"
+"POT-Creation-Date: 2020-07-19 13:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,17 +18,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 
-#: ../../source/Maintenance/WearDC/navigation.rst:2
+#: ../../Maintenance/WearDC/navigation.rst:2
 msgid "Navigation"
 msgstr ""
 
-#: ../../source/Maintenance/WearDC/navigation.rst:4
+#: ../../Maintenance/WearDC/navigation.rst:4
 msgid ""
 "Για να δείτε τη λίστα με τις εγκαταστάσεις, πατήστε το κουμπί "
 "‘Navigation’."
 msgstr ""
 
-#: ../../source/Maintenance/WearDC/navigation.rst:16
+#: ../../Maintenance/WearDC/navigation.rst:8
+msgid ""
+"Από την οθόνη με τη λίστα των εγκαταστάσεων πατήστε την εγκατάσταση που "
+"σας ενδιαφέρει και στη συνέχεια, μπορείτε να δείτε τις επιμέρους "
+"εγκαταστάσεις, αν υπάρχουν, και τα σημεία μέτρησης, πατώντας την ονομασία"
+" τους σε κάθε νέα οθόνη που εμφανίζετε."
+msgstr ""
+
+#: ../../Maintenance/WearDC/navigation.rst:10
+msgid ""
+"Σε κάθε σημείο μέτρησης μπορείτε να ανεβάσετε φωτογραφία(1), να "
+"προσθέσετε μια τιμή στο πεδίο ‘Add the value here’(2), να γράψετε κάποια "
+"σημείωση στο πεδίο ‘Add an observation here’(3) και να ανεβάσετε μια "
+"θερμογραφία(4). Όταν ολοκληρώσετε οποιαδήποτε προσθήκη, πατήστε το κουμπί"
+" ‘Save’(5). Για να δείτε τα επόμενα σημεία μέτρησης, πατήστε τα βελάκια "
+"στο κάτω μέρος της οθόνης(6)."
+msgstr ""
+
+#: ../../Maintenance/WearDC/navigation.rst:14
 msgid ""
 "Σημείωση: Για να μπορέσετε να ανεβάσετε μια θερμογραφία θα πρέπει η "
 "συσκευή σας να είναι συνδεδεμένη με την κάμερα Flir One."
