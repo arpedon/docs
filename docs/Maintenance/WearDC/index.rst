@@ -1,4 +1,4 @@
-.. only:: not builder_html
+.. only:: not builder_html or readthedocs
 
     WearDC
     ============
