@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-17 13:54+0300\n"
+"POT-Creation-Date: 2020-07-19 15:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,19 +18,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 
-#: ../../source/Maintenance/WearDC/introduction.rst:2
-msgid "Introduction"
-msgstr ""
+#: ../../Maintenance/WearDC/introduction.rst:2
+msgid "Εισαγωγή"
+msgstr "Introduction"
 
-#: ../../source/Maintenance/WearDC/introduction.rst:4
+#: ../../Maintenance/WearDC/introduction.rst:4
 msgid ""
 "Η εφαρμογή του WearDC σας δίνει τη δυνατότητα να έχετε πρόσβαση στις "
 "εγκαταστάσεις σας μέσω της κινητής σας συσκευής."
 msgstr ""
 
-#: ../../source/Maintenance/WearDC/introduction.rst:6
+#: ../../Maintenance/WearDC/introduction.rst:6
 msgid ""
 "Από την αρχική οθόνη μπορείτε άμεσα να δείτε τις διαδρομές που έχετε "
 "ορίσει, την πλήρη λίστα των εγκαταστάσεων και να σκανάρετε QR κωδικούς."
 msgstr ""
+
+#~ msgid "Introduction"
+#~ msgstr ""
 

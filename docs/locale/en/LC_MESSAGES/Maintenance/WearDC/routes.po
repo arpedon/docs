@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-17 13:54+0300\n"
+"POT-Creation-Date: 2020-07-19 15:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,24 +18,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 
-#: ../../source/Maintenance/WearDC/routes.rst:2
-msgid "Routes"
+#: ../../Maintenance/WearDC/routes.rst:2
+msgid "Διαδρομές"
+msgstr "Routes"
+
+#: ../../Maintenance/WearDC/routes.rst:4
+msgid "Για να δείτε τις διαδρομές, πατήστε το κουμπί Διαδρομές."
 msgstr ""
 
-#: ../../source/Maintenance/WearDC/routes.rst:4
-msgid "Για να δείτε τις διαδρομές, πατήστε το κουμπί ‘Routes’."
-msgstr ""
-
-#: ../../source/Maintenance/WearDC/routes.rst:8
+#: ../../Maintenance/WearDC/routes.rst:8
 msgid ""
 "Στη συνέχεια από την οθόνη που θα εμφανιστεί πατήστε τη διαδρομή που σας "
 "ενδιαφέρει και θα μεταφερθείτε στην οθόνη με το πρώτο σημείο μέτρησης της"
 " διαδρομής."
 msgstr ""
 
-#: ../../source/Maintenance/WearDC/routes.rst:12
+#: ../../Maintenance/WearDC/routes.rst:12
 msgid ""
 "Για να επιστρέψετε στη λίστα των διαδρομών, πατήστε το βελάκι που "
 "βρίσκεται πάνω αριστερά."
 msgstr ""
+
+#~ msgid "Routes"
+#~ msgstr ""
+
+#~ msgid "Για να δείτε τις διαδρομές, πατήστε το κουμπί ‘Routes’."
+#~ msgstr ""
 

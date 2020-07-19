@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-17 13:54+0300\n"
+"POT-Creation-Date: 2020-07-19 16:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 
-#: ../../source/Maintenance/WearDC/sync.rst:2
-msgid "Sync"
-msgstr ""
+#: ../../Maintenance/WearDC/sync.rst:2
+msgid "Συγχρονισμός"
+msgstr "Sync"
 
-#: ../../source/Maintenance/WearDC/sync.rst:4
+#: ../../Maintenance/WearDC/sync.rst:4
 msgid ""
 "Η εφαρμογή διαθέτει κουμπί συγχρονισμού με τη βάση δεδομένων. Σε "
 "περίπτωση που έχουν γίνει αλλαγές από την τελευταία φορά που ανοίξατε την"
@@ -34,13 +34,16 @@ msgid ""
 "‘κατεβάσει’ η συσκευή."
 msgstr ""
 
-#: ../../source/Maintenance/WearDC/sync.rst:9
+#: ../../Maintenance/WearDC/sync.rst:9
 msgid ""
 "Κατά τη διάρκεια του συγχρονισμού, αναγράφεται στο κάτω μέρος της "
 "εφαρμογής ποια πληροφορία αναβαθμίζεται."
 msgstr ""
 
-#: ../../source/Maintenance/WearDC/sync.rst:13
+#: ../../Maintenance/WearDC/sync.rst:13
 msgid "Όταν ολοκληρωθεί ο συγχρονισμός εμφανίζεται το μήνυμα ΄Sync completed’."
 msgstr ""
+
+#~ msgid "Sync"
+#~ msgstr ""
 

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-17 13:54+0300\n"
+"POT-Creation-Date: 2020-07-19 15:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 
-#: ../../source/Maintenance/WearDC/qrcode.rst:2
-msgid "QR Scan"
-msgstr ""
+#: ../../Maintenance/WearDC/qrcode.rst:2
+msgid "Σάρωση QR"
+msgstr "QR Scan"
 
-#: ../../source/Maintenance/WearDC/qrcode.rst:4
+#: ../../Maintenance/WearDC/qrcode.rst:4
 msgid ""
-"Για να σκανάρετε κωδικό QR ενός παγίου, πατήστε το κουμπί ‘Scan’. Στη "
+"Για να σκανάρετε κωδικό QR ενός παγίου, πατήστε το κουμπί ‘Σάρωση’. Στη "
 "συνέχεια, κεντράρετε τον κωδικό μέσα στο πλαίσιο που εμφανίζετε στην "
 "οθόνη σας και ο κωδικός θα σκαναριστεί αυτόματα. Αν ο κωδικός αυτός έχει "
 "ανατεθεί σε κάποιο πάγιο, αυτό θα εμφανιστεί στην οθόνη σας."

@@ -1,4 +1,4 @@
-.. only:: not builder_html or readthedocs
+.. only:: text
 
     Mechbase
     ============

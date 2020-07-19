@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-19 13:43+0300\n"
+"POT-Creation-Date: 2020-07-19 15:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,13 +19,11 @@ msgstr ""
 "Generated-By: Babel 2.8.0\n"
 
 #: ../../Maintenance/WearDC/navigation.rst:2
-msgid "Navigation"
-msgstr ""
+msgid "Πλοήγηση"
+msgstr "Navigation"
 
 #: ../../Maintenance/WearDC/navigation.rst:4
-msgid ""
-"Για να δείτε τη λίστα με τις εγκαταστάσεις, πατήστε το κουμπί "
-"‘Navigation’."
+msgid "Για να δείτε τη λίστα με τις εγκαταστάσεις, πατήστε το κουμπί ‘Πλοήγηση’."
 msgstr ""
 
 #: ../../Maintenance/WearDC/navigation.rst:8
