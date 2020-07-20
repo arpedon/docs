@@ -5,7 +5,7 @@ How to contribute:
 ## 1. Clone project
 
 ```
-git clone git@github.com:arpedon/docs.git && cd docs
+git clone git@github.com:arpedon/docs.git; cd docs
 ```
 
 ## 2. Install tools
