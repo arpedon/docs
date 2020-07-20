@@ -1,29 +1,48 @@
 # Arpedon Documentation
 
-How to contribute:
+Πως να συνεισφέρετε:
 
-## 1. Clone project
+Θα χρειαστούν στον υπολογιστή:
+
+- python 3.7
+- pipenv
+- Επεξεργαστής κειμένου. Προτείνεται Visual Studio code
+
+## Σε υπολογιστή Windows
+
+Την πρώτη φορά για να εγκαταστήσουμε τον κώδικα και τα εργαλεία.
+
+### 1. Clone project
+
+Μέσω Powershell πηγαίνουμε στο path οπου βρίσκονται τα project μας.
+
+Κατεβάζουμε τον κώδικα του αποθετηρίου:
 
 ```
 git clone git@github.com:arpedon/docs.git; cd docs
 ```
 
-## 2. Install tools
+### 2. Install tools
 
 ```
 pipenv install
 ```
 
-## 3. Use the pipenv shell
+Κάθε επόμενη φορά τα παραπάνω βήματα παραλείπονται.
+
+
+## 3. Ξεκινώντας να γράφουμε
+
+Ανοίγουμε το vscode και στο Terminal εκτελούμε τις παρακάτω εντολές.
 
 ```
 pipenv shell
 cd docs
 ```
 
-You are now in the `./docs/docs` directory.
+Πρέπει να είμαστε στο φάκελο `./docs/docs` του project και το εικονικό περιβάλλον python να είναι ενεργοποιημένο.
 
-## 4. Build documentation in Greek
+## 4. Build των docs στα Ελληνικά
 
 Windows (Powershell):  
 
@@ -31,15 +50,9 @@ Windows (Powershell):
 Set-Item env:SPHINXOPTS "-D language=el"; .\make.bat html
 ```
 
-Linux (bash): 
+Τα δημιουργημένα αρχεία ειναι στο φάκελο `_build`. Πηγαίνοντας στο φάκελο αυτό ανοίγουμε το `index.html` και βλέπουμε το αποτέλεσμα.
 
-```bash
-make -e SPHINXOPTS="-D language='el'" html
-```
-
-The generated files are in the `_build` directory. You can visit `index.html`.
-
-## 5. Generate files for translations to English
+## 5. Δημιουργία των απαιτούμενων αρχείων για μετάφραση στα Αγγλικά
 
 Windows (Powershell): 
 
@@ -47,15 +60,9 @@ Windows (Powershell):
 sphinx-build -b gettext . _build/gettext; sphinx-intl update -p _build/gettext -l en
 ```
 
-Linux (bash): 
+Τώρα τα αρχεία `.po` είναι στο .`/locale/en/LC_MESSAGES/`
 
-```bash
-sphinx-build -b gettext . _build/gettext && sphinx-intl update -p _build/gettext -l en
-```
-
-Now the `.po` files are in .`/locale/en/LC_MESSAGES/`
-
-## 6. Generate English version
+## 6. Δημιουργία της μετάφρασης
 
 Windows (Powershell): 
 
@@ -63,8 +70,4 @@ Windows (Powershell):
 Set-Item env:SPHINXOPTS "-D language=en"; .\make.bat html
 ```
 
-Linux (bash): 
-
-```bash
-make -e SPHINXOPTS="-D language='en'" html
-```
+Πλέον στο φάκελο `_build` τα αρχεία έχουν αντικατασταθεί με την Αγγλική έκδοση.
