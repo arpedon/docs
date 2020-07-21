@@ -23,14 +23,14 @@ msgstr "Routes"
 
 #: ../../Maintenance/WearDC/routes.rst:4
 msgid "Για να δείτε τις διαδρομές, πατήστε το κουμπί Διαδρομές."
-msgstr "To see the routes, press the 'Routes' button."
+msgstr "To see the routes, tap the 'Routes' button."
 
 #: ../../Maintenance/WearDC/routes.rst:8
 msgid "Στη συνέχεια από την οθόνη που θα εμφανιστεί πατήστε τη διαδρομή που σας "
 "ενδιαφέρει και θα μεταφερθείτε στην οθόνη με το πρώτο σημείο μέτρησης της"
 " διαδρομής."
 msgstr "Then from the screen that will appear tap the path that you wish and you "
-"will be taken to the screen of the route's first measuring point."
+"will be taken to the screen of the route's first measurement point."
 
 #: ../../Maintenance/WearDC/routes.rst:12
 msgid "Σε κάθε σημείο μέτρησης μέσα σε μια διαδρομή, μπορείτε να ανεβάσετε "
@@ -57,7 +57,7 @@ msgid "Για να ανεβάσετε φωτογραφία, πατήστε το 
 " ανοίξει και μπορείτε να βγάλετε φωτογραφία το σημείο. Αν είσαστε "
 "ευχαριστημένοι με τη φωτογραφία πατήστε 'OK' για να αποθηκευτεί, αλλιώς "
 "πατήστε 'Επανάληψη' για να ξανατραβήξετε φωτογραφία."
-msgstr "To upload a photo, press the button (1). On the next screen the photo "
+msgstr "To upload a photo, tap the button (1). On the next screen the photo "
 "displayed is the most recent taken. Dragging the screen towards the left,"
 " you can see all the saved photos. By tapping the button with the camera,"
 " the camera of your mobile will open and you can take a picture of the "

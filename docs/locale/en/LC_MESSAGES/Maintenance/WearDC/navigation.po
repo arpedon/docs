@@ -23,7 +23,7 @@ msgstr "Navigation"
 
 #: ../../Maintenance/WearDC/navigation.rst:4
 msgid "Για να δείτε τη λίστα με τις εγκαταστάσεις, πατήστε το κουμπί ‘Πλοήγηση’."
-msgstr "To see the list of plants, press the button 'Navigation'."
+msgstr "To see the list of plants, tap the button 'Navigation'."
 
 #: ../../Maintenance/WearDC/navigation.rst:8
 msgid "Από την οθόνη με τη λίστα των εγκαταστάσεων πατήστε την εγκατάσταση που "
@@ -31,13 +31,13 @@ msgid "Από την οθόνη με τη λίστα των εγκαταστάσ
 "εγκαταστάσεις, αν υπάρχουν, και τα σημεία μέτρησης, πατώντας την ονομασία"
 " τους σε κάθε νέα οθόνη που εμφανίζετε."
 msgstr "From the screen with the list of plants, tap the plant that you wish and "
-"then you can see the individual plants, if any, and measurement points by"
+"then you can see the next levels of plants, if any, and measurement points by"
 " tapping on their name on every new screen."
 
 #: ../../Maintenance/WearDC/navigation.rst:10
 msgid "Στο πάνω μέρος της οθόνης φαίνονται τα επίπεδα μέσα στην εγκατάσταση. "
 "Μπορείτε να πάτε σε προηγούμενο επίπεδο πατώντας πάνω στο όνομα."
-msgstr "At the top of the screen are the levels inside the installation. You can "
+msgstr "At the top of the screen are the levels inside the plant. You can "
 "go to the previous level by tapping on the name."
 
 #: ../../Maintenance/WearDC/navigation.rst:14
@@ -71,7 +71,12 @@ msgid "Για να ανεβάσετε φωτογραφία, πατήστε το 
 " ανοίξει και μπορείτε να βγάλετε φωτογραφία το σημείο. Αν είσαστε "
 "ευχαριστημένοι με τη φωτογραφία πατήστε 'OK' για να αποθηκευτεί, αλλιώς "
 "πατήστε 'Επανάληψη' για να ξανατραβήξετε φωτογραφία."
-msgstr ""
+msgstr "To upload a photo, tap the button (1). On the next screen the photo "
+"displayed is the most recent taken. Dragging the screen towards the left,"
+" you can see all the saved photos. By pressing the button with the "
+"camera, the camera of your mobile will open and you can take a picture of"
+" the point. If you are happy with the photo press 'OK' to save, otherwise"
+" tap 'Repeat' to take a photo again."
 
 #: ../../Maintenance/WearDC/navigation.rst:22
 msgid "Στο πεδίο 2, αν το σημείο μέτρησης δέχεται τιμή Optical boolean, "
