@@ -4,12 +4,11 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-19 16:00+0300\n"
+"POT-Creation-Date: 2020-07-21 12:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,30 +19,32 @@ msgstr ""
 
 #: ../../Maintenance/WearDC/sync.rst:2
 msgid "Συγχρονισμός"
-msgstr "Sync"
+msgstr "Synchronization"
 
 #: ../../Maintenance/WearDC/sync.rst:4
-msgid ""
-"Η εφαρμογή διαθέτει κουμπί συγχρονισμού με τη βάση δεδομένων. Σε "
-"περίπτωση που έχουν γίνει αλλαγές από την τελευταία φορά που ανοίξατε την"
-" εφαρμογή και δεν βρίσκετε διαδρομές, εγκαταστάσεις ή σημεία μέτρησης "
-"μέσω της εφαρμογής, πρέπει να πατήσετε το κουμπί ‘Sync’ για να "
-"συγχρονιστεί η εφαρμογή με τη βάση δεδομένων. Η ίδια διαδικασία πρέπει να"
-" γίνει αν συνδεθείτε με διαφορετικό λογαριασμό. O χρόνος της διαδικασία "
-"συγχρονισμού εξαρτάται από το μέγεθος των πληροφοριών  που καλείτε να "
-"‘κατεβάσει’ η συσκευή."
-msgstr ""
+msgid "Η εφαρμογή διαθέτει κουμπί συγχρονισμού με τη βάση δεδομένων. Kατά την "
+"προετοιμασία για να βγείτε στο πεδίο για μέτρηση και ενώ βρίσκεστε σε "
+"δίκτυο wifi, πατήστε το κουμπί 'Sync' για να ενημερωθούν τα "
+"δεδομένα(σημεία, διαδρομές, επίπεδα)."
+msgstr "The application has a button to synchronize with the database. "
+"During the preparation to go out in the field for measurement and while "
+"you are in a wifi network, press the 'Sync' button to update the data "
+"(points, routes, levels)."
 
-#: ../../Maintenance/WearDC/sync.rst:9
-msgid ""
-"Κατά τη διάρκεια του συγχρονισμού, αναγράφεται στο κάτω μέρος της "
+#: ../../Maintenance/WearDC/sync.rst:8
+msgid "Κατά τη διάρκεια του συγχρονισμού, αναγράφεται στο κάτω μέρος της "
 "εφαρμογής ποια πληροφορία αναβαθμίζεται."
-msgstr ""
+msgstr "During the synchronization, you can see at the bottom of the "
+"application which information is being updaded."
 
-#: ../../Maintenance/WearDC/sync.rst:13
+#: ../../Maintenance/WearDC/sync.rst:12
 msgid "Όταν ολοκληρωθεί ο συγχρονισμός εμφανίζεται το μήνυμα ΄Sync completed’."
-msgstr ""
+msgstr "When the synchronization is completed, the message ΄Sync completed ’is displayed."
 
-#~ msgid "Sync"
-#~ msgstr ""
+#: ../../Maintenance/WearDC/sync.rst:14
+msgid "O χρόνος της διαδικασία συγχρονισμού εξαρτάται από το μέγεθος των "
+"πληροφοριών που καλείτε να ‘κατεβάσει’ η συσκευή."
+msgstr "The time of the synchronization process depends on the size of "
+"the information that the device needs to 'download'."
+
 

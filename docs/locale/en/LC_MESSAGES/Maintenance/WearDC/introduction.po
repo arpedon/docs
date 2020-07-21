@@ -4,12 +4,11 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-19 15:58+0300\n"
+"POT-Creation-Date: 2020-07-21 12:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,18 +21,34 @@ msgstr ""
 msgid "Εισαγωγή"
 msgstr "Introduction"
 
+#: ../../Maintenance/WearDC/introduction.rst:2
+msgid "Εισαγωγή"
+msgstr "Introduction"
+
 #: ../../Maintenance/WearDC/introduction.rst:4
-msgid ""
-"Η εφαρμογή του WearDC σας δίνει τη δυνατότητα να έχετε πρόσβαση στις "
+msgid "Η εφαρμογή του WearDC σας δίνει τη δυνατότητα να έχετε πρόσβαση στις "
 "εγκαταστάσεις σας μέσω της κινητής σας συσκευής."
-msgstr ""
+msgstr "WearDC application enables you to access your plants via your mobile device."
 
 #: ../../Maintenance/WearDC/introduction.rst:6
-msgid ""
-"Από την αρχική οθόνη μπορείτε άμεσα να δείτε τις διαδρομές που έχετε "
+msgid "Μπορείτε να εγκαταστήσετε την εφαρμογή από τον υπολογιστή σας στον "
+"σύνδεσμο https://play.google.com/store/apps/details?id=com.arpedon.weardc&hl=en_US"
+" ή από την εφαρμογή Google Play στο κινητό σας γράφοντας WEARDC One στην "
+"γραμμή αναζήτησης και στη συνέχεια πατώντας το κουμπί 'Εγκατάσταση'."
+msgstr "You can install the application from your computer at "
+"https://play.google.com/store/apps/details?id=com.arpedon.weardc&hl=en_US "
+"or from the Google Play app on your mobile by typing WEARDC One in the "
+"search bar and then tapping the 'Install' button."
+
+
+#: ../../Maintenance/WearDC/introduction.rst:8
+msgid "Από την αρχική οθόνη μπορείτε άμεσα να δείτε τις διαδρομές που έχετε "
 "ορίσει, την πλήρη λίστα των εγκαταστάσεων και να σκανάρετε QR κωδικούς."
-msgstr ""
+msgstr "From the home screen you can immediately see the routes you have "
+"set, the complete list of plants and scan QR codes."
+
 
 #~ msgid "Introduction"
 #~ msgstr ""
+
 

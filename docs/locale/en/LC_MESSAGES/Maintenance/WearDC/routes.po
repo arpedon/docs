@@ -4,12 +4,11 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-19 15:58+0300\n"
+"POT-Creation-Date: 2020-07-21 12:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,20 +23,68 @@ msgstr "Routes"
 
 #: ../../Maintenance/WearDC/routes.rst:4
 msgid "Για να δείτε τις διαδρομές, πατήστε το κουμπί Διαδρομές."
-msgstr ""
+msgstr "To see the routes, press the 'Routes' button."
 
 #: ../../Maintenance/WearDC/routes.rst:8
-msgid ""
-"Στη συνέχεια από την οθόνη που θα εμφανιστεί πατήστε τη διαδρομή που σας "
+msgid "Στη συνέχεια από την οθόνη που θα εμφανιστεί πατήστε τη διαδρομή που σας "
 "ενδιαφέρει και θα μεταφερθείτε στην οθόνη με το πρώτο σημείο μέτρησης της"
 " διαδρομής."
-msgstr ""
+msgstr "Then from the screen that will appear tap the path that you wish and you "
+"will be taken to the screen of the route's first measuring point."
 
 #: ../../Maintenance/WearDC/routes.rst:12
-msgid ""
-"Για να επιστρέψετε στη λίστα των διαδρομών, πατήστε το βελάκι που "
+msgid "Σε κάθε σημείο μέτρησης μέσα σε μια διαδρομή, μπορείτε να ανεβάσετε "
+"φωτογραφία(1), να προσθέσετε μια τιμή στο πεδίο ‘Add the value here’(2), "
+"να γράψετε κάποια σημείωση στο πεδίο ‘Add an observation here’(3) και να "
+"ανεβάσετε μια θερμογραφία(αν το σημείο μέτρησης είναι θερμογραφία) ή "
+"φωτογραφία(αν θέλετε να κρατήσετε κάποια σημείωση σε μορφή "
+"φωτογραφίας)(4). Όταν ολοκληρώσετε οποιαδήποτε προσθήκη, πατήστε το "
+"κουμπί ‘Save’(5). Για να δείτε τα επόμενα σημεία μέτρησης, πατήστε τα "
+"βελάκια στο κάτω μέρος της οθόνης(6) ή σύρετε την οθόνη αριστερά."
+msgstr "At each measurement point you can upload a photo (1), add a value in the "
+"field 'Add the value here' (2), write some notes in the 'Add an "
+"observation here' field (3) and upload a thermography (if the measurement"
+" point is thermography) or a photograph (if you want to keep a note in a "
+"photo format) (4). When you complete any addition, press the 'Save' "
+"button (5). To see the next measurement points, press the arrows at the "
+"bottom screen (6) or drag the screen to the left."
+
+#: ../../Maintenance/WearDC/routes.rst:14
+msgid "Για να ανεβάσετε φωτογραφία, πατήστε το κουμπί(1). Στην επόμενη οθόνη η "
+"φωτογραφία που εμφανίζεται είναι η πιο πρόσφατη. Σύροντας την οθόνη προς "
+"τα αριστερά, μπορείτε να δείτε όλες τις αποθηκευμένες φωτογραφίες. "
+"Πατώντας το κουμπί με την φωτογραφική μηχανή, η κάμερα του κινητού σας θα"
+" ανοίξει και μπορείτε να βγάλετε φωτογραφία το σημείο. Αν είσαστε "
+"ευχαριστημένοι με τη φωτογραφία πατήστε 'OK' για να αποθηκευτεί, αλλιώς "
+"πατήστε 'Επανάληψη' για να ξανατραβήξετε φωτογραφία."
+msgstr "To upload a photo, press the button (1). On the next screen the photo "
+"displayed is the most recent taken. Dragging the screen towards the left,"
+" you can see all the saved photos. By tapping the button with the camera,"
+" the camera of your mobile will open and you can take a picture of the "
+"point. If you are happy with the photo press 'OK' to save, otherwise tap "
+"'Repeat' to take a photo again."
+
+#: ../../Maintenance/WearDC/routes.rst:18
+msgid "Στο πεδίο 2, αν το σημείο μέτρησης δέχεται τιμή Optical boolean, "
+"επιλέξετε true ή false."
+msgstr "In field 2, if the measurement point is Optical boolean, select true or "
+"false."
+
+#: ../../Maintenance/WearDC/routes.rst:22
+msgid "Για να επιστρέψετε στη λίστα των διαδρομών, πατήστε το βελάκι που "
 "βρίσκεται πάνω αριστερά."
-msgstr ""
+msgstr "To return to the list of routes, press the arrow that on the top left."
+
+#: ../../Maintenance/WearDC/routes.rst:26
+msgid "Όταν ολοκληρώσετε μια διαδρομή, πατήστε 'Sync' από την αρχική οθόνη για "
+"συγχρονισμό των δεδομένων."
+msgstr "When you have completed your changes in a route, press 'Sync' from the "
+"home screen for data synchronization."
+
+#: ../../Maintenance/WearDC/routes.rst:28
+msgid "Σημείωση: Για να μπορέσετε να ανεβάσετε μια θερμογραφία θα πρέπει η "
+"συσκευή σας να είναι συνδεδεμένη με την κάμερα Flir One"
+msgstr "Note: In order to be able to upload a thermography your device "
 
 #~ msgid "Routes"
 #~ msgstr ""

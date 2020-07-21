@@ -4,12 +4,11 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-19 15:58+0300\n"
+"POT-Creation-Date: 2020-07-21 12:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,29 +23,78 @@ msgstr "Navigation"
 
 #: ../../Maintenance/WearDC/navigation.rst:4
 msgid "Για να δείτε τη λίστα με τις εγκαταστάσεις, πατήστε το κουμπί ‘Πλοήγηση’."
-msgstr ""
+msgstr "To see the list of plants, press the button 'Navigation'."
 
 #: ../../Maintenance/WearDC/navigation.rst:8
-msgid ""
-"Από την οθόνη με τη λίστα των εγκαταστάσεων πατήστε την εγκατάσταση που "
+msgid "Από την οθόνη με τη λίστα των εγκαταστάσεων πατήστε την εγκατάσταση που "
 "σας ενδιαφέρει και στη συνέχεια, μπορείτε να δείτε τις επιμέρους "
 "εγκαταστάσεις, αν υπάρχουν, και τα σημεία μέτρησης, πατώντας την ονομασία"
 " τους σε κάθε νέα οθόνη που εμφανίζετε."
-msgstr ""
+msgstr "From the screen with the list of plants, tap the plant that you wish and "
+"then you can see the individual plants, if any, and measurement points by"
+" tapping on their name on every new screen."
 
 #: ../../Maintenance/WearDC/navigation.rst:10
-msgid ""
-"Σε κάθε σημείο μέτρησης μπορείτε να ανεβάσετε φωτογραφία(1), να "
-"προσθέσετε μια τιμή στο πεδίο ‘Add the value here’(2), να γράψετε κάποια "
-"σημείωση στο πεδίο ‘Add an observation here’(3) και να ανεβάσετε μια "
-"θερμογραφία(4). Όταν ολοκληρώσετε οποιαδήποτε προσθήκη, πατήστε το κουμπί"
-" ‘Save’(5). Για να δείτε τα επόμενα σημεία μέτρησης, πατήστε τα βελάκια "
-"στο κάτω μέρος της οθόνης(6)."
-msgstr ""
+msgid "Στο πάνω μέρος της οθόνης φαίνονται τα επίπεδα μέσα στην εγκατάσταση. "
+"Μπορείτε να πάτε σε προηγούμενο επίπεδο πατώντας πάνω στο όνομα."
+msgstr "At the top of the screen are the levels inside the installation. You can "
+"go to the previous level by tapping on the name."
 
 #: ../../Maintenance/WearDC/navigation.rst:14
-msgid ""
-"Σημείωση: Για να μπορέσετε να ανεβάσετε μια θερμογραφία θα πρέπει η "
-"συσκευή σας να είναι συνδεδεμένη με την κάμερα Flir One."
+msgid "Πατώντας το όνομα του σημείου μέτρησης, μεταφέρεστε στην οθόνη με στο "
+"σημείο μέτρησης."
+msgstr "Tapping the name of the measurement point takes you to the screen of that"
+" measurement point."
+
+#: ../../Maintenance/WearDC/navigation.rst:16
+msgid "Σε κάθε σημείο μέτρησης μπορείτε να ανεβάσετε φωτογραφία(1), να "
+"προσθέσετε μια τιμή στο πεδίο ‘Add the value here’(2), να γράψετε κάποια "
+"σημείωση στο πεδίο ‘Add an observation here’(3) και να ανεβάσετε μια "
+"θερμογραφία(αν το σημείο μέτρησης είναι θερμογραφία) ή φωτογραφία(αν "
+"θέλετε να κρατήσετε κάποια σημείωση σε μορφή φωτογραφίας)(4). Όταν "
+"ολοκληρώσετε οποιαδήποτε προσθήκη, πατήστε το κουμπί ‘Save’(5). Για να "
+"δείτε τα επόμενα σημεία μέτρησης, πατήστε τα βελάκια στο κάτω μέρος της "
+"οθόνης(6) ή σύρετε την οθόνη αριστερά."
+msgstr "At each measurement point you can upload a photo (1), add a value in the "
+"field 'Add the value here' (2), write some notes in the 'Add an "
+"observation here' field (3) and upload a thermography (if the measurement"
+" point is thermography) or a photograph (if you want to keep a note in a "
+"photo format) (4). When you complete any addition, press the 'Save' "
+"button (5). To see the next measurement points, press the arrows at the "
+"bottom screen (6) or drag the screen to the left."
+
+#: ../../Maintenance/WearDC/navigation.rst:18
+msgid "Για να ανεβάσετε φωτογραφία, πατήστε το κουμπί(1). Στην επόμενη οθόνη η "
+"φωτογράφία που εμφανίζεται είναι η πιο πρόσφατη. Σύροντας την οθόνη προς "
+"τα αριστερά, μπορείτε να δείτε όλες τις αποθηκευμένες φωτογραφίες. "
+"Πατώντας το κουμπί με την φωτογραφική μηχανή, η κάμερα του κινητού σας θα"
+" ανοίξει και μπορείτε να βγάλετε φωτογραφία το σημείο. Αν είσαστε "
+"ευχαριστημένοι με τη φωτογραφία πατήστε 'OK' για να αποθηκευτεί, αλλιώς "
+"πατήστε 'Επανάληψη' για να ξανατραβήξετε φωτογραφία."
 msgstr ""
+
+#: ../../Maintenance/WearDC/navigation.rst:22
+msgid "Στο πεδίο 2, αν το σημείο μέτρησης δέχεται τιμή Optical boolean, "
+"επιλέξετε true ή false."
+msgstr "In field 2, if the measurement point is an Optical boolean, select true "
+"or false."
+
+#: ../../Maintenance/WearDC/navigation.rst:26
+msgid "Σημείωση: Για να μπορέσετε να ανεβάσετε μια θερμογραφία θα πρέπει η "
+"συσκευή σας να είναι συνδεδεμένη με την κάμερα Flir One."
+msgstr "Note: In order to be able to upload a thermography your device "
+
+#~ msgid ""
+#~ "Σε κάθε σημείο μέτρησης μπορείτε να "
+#~ "ανεβάσετε φωτογραφία(1), να προσθέσετε μια "
+#~ "τιμή στο πεδίο ‘Add the value "
+#~ "here’(2), να γράψετε κάποια σημείωση στο"
+#~ " πεδίο ‘Add an observation here’(3) "
+#~ "και να ανεβάσετε μια θερμογραφία(4). "
+#~ "Όταν ολοκληρώσετε οποιαδήποτε προσθήκη, "
+#~ "πατήστε το κουμπί ‘Save’(5). Για να "
+#~ "δείτε τα επόμενα σημεία μέτρησης, "
+#~ "πατήστε τα βελάκια στο κάτω μέρος "
+#~ "της οθόνης(6)."
+#~ msgstr ""
 

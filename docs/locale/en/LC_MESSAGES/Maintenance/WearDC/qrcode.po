@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-19 15:58+0300\n"
+"POT-Creation-Date: 2020-07-21 12:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,10 +23,30 @@ msgid "Σάρωση QR"
 msgstr "QR Scan"
 
 #: ../../Maintenance/WearDC/qrcode.rst:4
-msgid ""
-"Για να σκανάρετε κωδικό QR ενός παγίου, πατήστε το κουμπί ‘Σάρωση’. Στη "
-"συνέχεια, κεντράρετε τον κωδικό μέσα στο πλαίσιο που εμφανίζετε στην "
+msgid "Για να σκανάρετε κωδικό QR ενός παγίου, πατήστε το κουμπί ‘Σάρωση’."
+msgstr "To scan a QR code of an asset, press the 'Scan' button."
+
+#: ../../Maintenance/WearDC/qrcode.rst:8
+msgid "Στη συνέχεια, κεντράρετε τον κωδικό μέσα στο πλαίσιο που εμφανίζετε στην "
 "οθόνη σας και ο κωδικός θα σκαναριστεί αυτόματα. Αν ο κωδικός αυτός έχει "
 "ανατεθεί σε κάποιο πάγιο, αυτό θα εμφανιστεί στην οθόνη σας."
-msgstr ""
+msgstr "Then center the code in the box that appears in your screen and the code "
+"will be scanned automatically."
+
+#: ../../Maintenance/WearDC/qrcode.rst:12
+msgid "Αν ο κωδικός αυτός έχει ανατεθεί σε κάποιο πάγιο, θα ακουστεί ένας ήχος "
+"και το σημείο μέτρησης θα εμφανιστεί στην οθόνη σας."
+msgstr "If this code has been assigned to an asset, a sound will be heard and "
+"the measurement point will appear on your screen."
+
+#~ msgid ""
+#~ "Για να σκανάρετε κωδικό QR ενός "
+#~ "παγίου, πατήστε το κουμπί ‘Σάρωση’. Στη"
+#~ " συνέχεια, κεντράρετε τον κωδικό μέσα "
+#~ "στο πλαίσιο που εμφανίζετε στην οθόνη"
+#~ " σας και ο κωδικός θα σκαναριστεί "
+#~ "αυτόματα. Αν ο κωδικός αυτός έχει "
+#~ "ανατεθεί σε κάποιο πάγιο, αυτό θα "
+#~ "εμφανιστεί στην οθόνη σας."
+#~ msgstr ""
 
