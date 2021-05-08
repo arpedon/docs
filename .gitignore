@@ -1,6 +1,9 @@
 # sphinx build folder
 _build
 
+# vscode folder
+.vscode
+
 # Compiled source #
 ###################
 *.com
