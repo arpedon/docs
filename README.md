@@ -4,8 +4,8 @@
 
 Θα χρειαστούν στον υπολογιστή:
 
-- python 3.7
-- pipenv
+- python 3.8
+- [poetry](https://python-poetry.org/docs/)
 - Επεξεργαστής κειμένου. Προτείνεται Visual Studio code
 
 ## Σε υπολογιστή Windows
@@ -25,7 +25,18 @@ git clone git@github.com:arpedon/docs.git; cd docs
 ### 2. Install tools
 
 ```
-pipenv install
+poetry install
+```
+
+Αφού τελειώσει βοηθάει να ακολουθήσουμε [τον οδηγό](https://code.visualstudio.com/docs/python/environments). 
+
+Για βρούμε το περιβάλλον και να το εισάγουμε στο `Python: Select Interpreter`:
+
+```powershell
+PS C:\Users\user\development\docs> poetry show -v
+Using virtualenv: C:\Users\tsangiotis\AppData\Local\pypoetry\Cache\virtualenvs\arpedon-docs-ih6q2V8l-py3.8
+...
+...
 ```
 
 Κάθε επόμενη φορά τα παραπάνω βήματα παραλείπονται.
@@ -36,7 +47,6 @@ pipenv install
 Ανοίγουμε το vscode και στο Terminal εκτελούμε τις παρακάτω εντολές.
 
 ```
-pipenv shell
 cd docs
 ```
 
