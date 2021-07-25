@@ -8,11 +8,9 @@
 
 .. image:: Measurement-point/Create-measurement-point-1.png
 
+Κλικάροντας 'Add', στην νέα οθόνη, εμφανίζεται η φόρμα δημιουργίας σημείου μέτρησης.
+
 .. image:: Measurement-point/Create-measurement-point-2.png
-
-Κλικάροντας 'New', στην νέα οθόνη, εμφανίζεται η φόρμα δημιουργίας σημείου μέτρησης.
-
-.. image:: Measurement-point/Create-measurement-point-3.png
 
 **Φόρμα δημιουργίας σημείου μέτρησης**
 
@@ -146,11 +144,7 @@ Acquisition settings
 
 * **Offset(V):** Η απόκλιση.
 
-Για να ανοίξετε τη λίστα 'Acquisition settings', κλικάρετε το βελάκι.
-
-.. image:: Measurement-point/Create-measurement-point-5.png
-
-.. image:: Measurement-point/Create-measurement-point-5b.png
+.. image:: Measurement-point/Create-measurement-point-3.png
 
 Trending values
 ***************
@@ -196,17 +190,19 @@ Trending values
 
 .. image:: Measurement-point/Create-measurement-point-1.png
 
-.. image:: Measurement-point/Create-measurement-point-2.png
-
-Στην οθόνη που εμφανίζεται, κλικάρετε το 'μολύβι' του σημείου μέτρησης που θέλετε να επεξεργαστείτε.
+Στην οθόνη που εμφανίζεται, κλικάρετε στο όνομα του σημείου μέτρησης που θέλετε να επεξεργαστείτε.
 
 .. image:: Measurement-point/Edit-measurement-point-1.png
 
-Στη φόρμα που εμφανίζετε, αλλάζετε τα στοιχεία που θέλετε και κλικάρετε 'Update'
+Κλικάρετε στο μενού της οθόνης που εμφανίστηκε και στη συνέχεια στο 'Edit'.
 
 .. image:: Measurement-point/Edit-measurement-point-2.png
 
+Στη φόρμα που εμφανίζετε, αλλάζετε τα στοιχεία που θέλετε και κλικάρετε 'Save'.
+
 .. image:: Measurement-point/Edit-measurement-point-3.png
+
+.. image:: Measurement-point/Edit-measurement-point-4.png
 
 3.3 Μετακίνηση σημείου μέτρησης
 -------------------------------
@@ -240,19 +236,17 @@ Trending values
 
 .. image:: Measurement-point/Create-measurement-point-1.png
 
-.. image:: Measurement-point/Create-measurement-point-2.png
-
 Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να διαγράψετε.
-
-.. image:: Measurement-point/Move-measurement-point-1.png
-
-Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο 'Delete'.
 
 .. image:: Measurement-point/Delete-measurement-point-1.png
 
-Στο παράθυρο που θα εμφανιστεί στο πάνω μέρος της σελίδας το οποίο σας ρωτάει αν είσαστε σίγουροι οτι θέλετε να διαγράψετε το σημείο, κλικάρετε 'ΟΚ'. Σε περίπτωση που δεν θέλετε να το διαγράψετε, πατάτε 'Cancel'
+Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο 'Delete'.
 
 .. image:: Measurement-point/Delete-measurement-point-2.png
+
+Στο παράθυρο που θα εμφανιστεί στο πάνω μέρος της σελίδας το οποίο σας ρωτάει αν είσαστε σίγουροι οτι θέλετε να διαγράψετε το σημείο, κλικάρετε 'ΟΚ'. Σε περίπτωση που δεν θέλετε να το διαγράψετε, πατάτε 'Cancel'
+
+.. image:: Measurement-point/Delete-measurement-point-3.png
 
 
 3.5 Συναγερμοί
