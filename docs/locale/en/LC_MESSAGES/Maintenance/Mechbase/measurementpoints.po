@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mechbase \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-24 23:29+0300\n"
+"POT-Creation-Date: 2021-08-06 12:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -493,48 +493,10 @@ msgstr ""
 "'Save'."
 
 #: ../../Maintenance/Mechbase/measurementpoints.rst:208
-msgid "3.3 Μετακίνηση σημείου μέτρησης"
-msgstr "3.3 Moving a measurement point"
+msgid "3.3 Διαγραφή σημείου μέτρησης"
+msgstr "3.3 Deleting a measurement point"
 
 #: ../../Maintenance/Mechbase/measurementpoints.rst:210
-msgid ""
-"Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να "
-"μετακινήσετε είτε απο το δέντρο είτε απο την αρχική σελίδα της "
-"πλατφόρμας."
-msgstr ""
-"Select and click the level with the measurement point you want to move "
-"either from the tree or from the platform's homepage."
-
-#: ../../Maintenance/Mechbase/measurementpoints.rst:216
-msgid ""
-"Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να "
-"μετακινήσετε."
-msgstr ""
-"On the screen that appears, click on the measurement point we want to "
-"move."
-
-#: ../../Maintenance/Mechbase/measurementpoints.rst:220
-msgid ""
-"Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο "
-"'Move'."
-msgstr "On the screen that appears, click on 'Menu' and then on 'Move'."
-
-#: ../../Maintenance/Mechbase/measurementpoints.rst:224
-msgid ""
-"Στη φόρμα που εμφανίζεται, κλικάρετε το βελάκι και στο πλαίσιο 'Search' "
-"πληκτρολογείτε το επίπεδο στο οποίο θέλετε να μετακινήσετε το σημείο "
-"μέτρησης. Απο κάτω θα εμφανιστεί το όνομα του επίπεδου που "
-"πληκτρολογήσατε. Το κλικάρετε και πατάτε 'Submit'."
-msgstr ""
-"In the form that appears, click the arrow and in the 'Search' box type "
-"the level you want to move the measurement point to. Below the name of "
-"the layer you typed is displayed. Click it and click 'Submit'."
-
-#: ../../Maintenance/Mechbase/measurementpoints.rst:233
-msgid "3.4 Διαγραφή σημείου μέτρησης"
-msgstr "3.4 Deleting a measurement point"
-
-#: ../../Maintenance/Mechbase/measurementpoints.rst:235
 msgid ""
 "Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να "
 "διαγράψετε είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας."
@@ -542,7 +504,7 @@ msgstr ""
 "Select and click the level with the measurement point you want to delete "
 "either from the tree or from its platform's homepage."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:241
+#: ../../Maintenance/Mechbase/measurementpoints.rst:214
 msgid ""
 "Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να "
 "διαγράψετε."
@@ -550,13 +512,13 @@ msgstr ""
 "On the screen that appears, click on the measurement point you want to "
 "delete."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:245
+#: ../../Maintenance/Mechbase/measurementpoints.rst:218
 msgid ""
 "Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο "
 "'Delete'."
 msgstr "On the screen that appears, click on 'Menu' and then on 'Delete'."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:249
+#: ../../Maintenance/Mechbase/measurementpoints.rst:222
 msgid ""
 "Στο παράθυρο που θα εμφανιστεί στο πάνω μέρος της σελίδας το οποίο σας "
 "ρωτάει αν είσαστε σίγουροι οτι θέλετε να διαγράψετε το σημείο, κλικάρετε "
@@ -566,11 +528,11 @@ msgstr ""
 "are sure you want to delete the point, click 'OK'. If you don't want to "
 "delete it, click 'Cancel'."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:255
-msgid "3.5 Συναγερμοί"
-msgstr "3.5 Alarms"
+#: ../../Maintenance/Mechbase/measurementpoints.rst:228
+msgid "3.4 Συναγερμοί"
+msgstr "3.4 Alarms"
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:256
+#: ../../Maintenance/Mechbase/measurementpoints.rst:229
 msgid ""
 "Οι συναγερμοί σε ένα πρόγραμμα διαγνωστικής συντήρησης είναι εξαιρετικά "
 "κρίσιμοι γιά την αποδοτικότητα της διαδικασίας. Δείχνουν που πρέπει να "
@@ -580,7 +542,7 @@ msgstr ""
 "efficiency of the process. They show where the user’s attention should be"
 " focused."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:258
+#: ../../Maintenance/Mechbase/measurementpoints.rst:231
 msgid ""
 "Αυτό γιατί οι περισσότερες μηχανές σε μία εγκατάσταση δεν παρουσιάζουν "
 "προβλήματα. Τελικά αν οι συναγερμοί τεθούν σωστά ο χρήστης θα ασχοληθεί "
@@ -590,11 +552,11 @@ msgstr ""
 "Eventually if the alarms are set correctly the user will deal with assets"
 " that have a real problem."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:261
+#: ../../Maintenance/Mechbase/measurementpoints.rst:234
 msgid "Simple alarms"
 msgstr "Simple alarms"
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:263
+#: ../../Maintenance/Mechbase/measurementpoints.rst:236
 msgid ""
 "Η πιο απλή μέθοδος συναγερμών είναι η σύγκριση τρέχουσα τιμής με την τιμή"
 " βάσης."
@@ -602,28 +564,31 @@ msgstr ""
 "The simplest alarm method is the comparison of the current value with the"
 " base value."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:265
+#: ../../Maintenance/Mechbase/measurementpoints.rst:238
 msgid ""
 "Ο χρήστης γνωρίζοντας το επίπεδο συναγερμού που θέλει να θέσει μεταβαίνει"
-" στο σημείο μέτρησης. Εκεί θα συναντήσει την επιλογή: **Simple Alarms**"
+" στο σημείο μέτρησης. Εκεί θα συναντήσει την επιλογή: **History**"
 msgstr ""
 "The user knowing the alarm level he would like to set, transitions to the"
 " measurement point. There he will come across the option: "
-"**SimpleAlarms**"
+"**History**"
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:267
-msgid "Στη συνέχεια θα θέσει τους συναγερμούς για κάθε trending value."
-msgstr "Next he will set the alarm for every trending value."
+#: ../../Maintenance/Mechbase/measurementpoints.rst:240
+msgid ""
+"Στη συνέχεια θα θέσει τους συναγερμούς για κάθε trending value. "
+"Κλικάροντας 'show alarms' βλέπει τους ήδη υπάρχοντες συναγερμούς και "
+"μπορεί να προσθέσει νέους επιλέγοντας 'Add alarm'."
+msgstr "Next he will set the alarm for every trending value. By clicking 'show alarms' the user views the already existing alarms and can also add new ones by selecting 'Add alarm'."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:271
-msgid "Για να επικυρώσει την επιλογή θα επιλέξει **Update alarms**."
-msgstr "To confirm he will choose **Update alarms**."
+#: ../../Maintenance/Mechbase/measurementpoints.rst:246
+msgid "Για να επικυρώσει την επιλογή θα επιλέξει **Save**."
+msgstr "To confirm he will choose **Save**."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:274
+#: ../../Maintenance/Mechbase/measurementpoints.rst:251
 msgid "Statistical alarms"
 msgstr ""
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:276
+#: ../../Maintenance/Mechbase/measurementpoints.rst:253
 msgid ""
 "Μεταβολή όμως στην λειτουργία του εξοπλισμού (ταχύτητα, φορτίο) ή ακόμα "
 "και στις περιβαλλοντικές συνθήκες μεταβάλει το μέγεθος που μετράνε οι "
@@ -638,7 +603,7 @@ msgstr ""
 "in the diagnostic maintenance system implemented by enhancing the risk of"
 " hiding real damage."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:278
+#: ../../Maintenance/Mechbase/measurementpoints.rst:255
 msgid ""
 "Η διεθνής κοινότητα της συντήρησης για να καταπολεμήσει το φαινόμενο "
 "προτείνει όλο και περισσότερο τη χρήση στατιστικών μεθόδων για την "
@@ -646,7 +611,7 @@ msgid ""
 "εξηγεί πόσο κάτι αποκλίνει από την «κανονική» κατάσταση."
 msgstr ""
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:280
+#: ../../Maintenance/Mechbase/measurementpoints.rst:257
 msgid ""
 "Η μέθοδος στηρίζεται στην έννοια της τυπικής απόκλισης ή σ. Πρόκειται για"
 " μία κατανομή των δεδομένων που περιγράφεται οπτικά από την παρακάτω "
@@ -659,7 +624,7 @@ msgstr ""
 "of standard deviation or σ. The distribution of data is visually "
 "described by the following figure:"
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:284
+#: ../../Maintenance/Mechbase/measurementpoints.rst:261
 msgid ""
 "Οι μετρήσεις που απέχουν μέχρι 1 x σ από το μέσο όρο αποτελούν το 68% των"
 " μετρήσεων ενώ οι μετρήσεις που απέχουν μέχρι 2 x σ αποτελούν το 95% των "
@@ -673,7 +638,7 @@ msgstr ""
 " certainly indications that the machine’s operating condition is outside "
 "‘normal’."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:286
+#: ../../Maintenance/Mechbase/measurementpoints.rst:263
 msgid ""
 "Στα πλαίσια της διαρκούς βελτίωσης του λογισμικού μας DataRunner "
 "προσθέσαμε ένα βοηθό οδηγό για τον ορισμό στατιστικών συναγερμών."
@@ -681,7 +646,7 @@ msgstr ""
 "As part of the continuous improvement of our Mechbase software, we have "
 "added an assistant guide for the definition of statistical alarms."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:288
+#: ../../Maintenance/Mechbase/measurementpoints.rst:265
 msgid ""
 "Ο χρήστης έχοντας συλλέξει δεδομένα με όποια από τις υποστηριζόμενες  "
 "μεθόδους, μεταβαίνει στο  σημείο μέτρησης. Εκεί θα συναντήσει την "
@@ -691,7 +656,7 @@ msgstr ""
 "transitions to the measurement point. There they will come across the "
 "option: Statistical Alarms"
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:292
+#: ../../Maintenance/Mechbase/measurementpoints.rst:269
 msgid ""
 "Στη συνέχεια θα κληθεί να επιλέξει τη μέτρηση στην οποία θα βασιστεί.  "
 "Για μετρήσεις ταλαντώσεων αυτό μπορεί να είναι RMS, Peak, Peak-to-Peak, "
@@ -704,7 +669,7 @@ msgstr ""
 "Peak, Crest factor acceleration/velocity/offset. Regarding spectral "
 "analysis statistical alarms are also applied to arrange region value."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:296
+#: ../../Maintenance/Mechbase/measurementpoints.rst:273
 msgid ""
 "Με βάση τις μετρήσεις που επιλέχτηκαν ο οδηγός προτείνει τιμές για τους "
 "συναγερμούς. Σε αυτό το σημείο χρήστης ο οποίος γνωρίζει τη συμπεριφορά "
@@ -715,7 +680,7 @@ msgstr ""
 "alarms. At this point the used who is acquainted with the machine’s "
 "behavior may want to make changed and eventually finalize the alarms."
 
-#: ../../Maintenance/Mechbase/measurementpoints.rst:302
+#: ../../Maintenance/Mechbase/measurementpoints.rst:279
 msgid ""
 "Για ένα πρόγραμμα διαγνωστικής συντήρησης ο χρόνος που δαπανούμε στον "
 "ορισμό των συναγερμών είναι από τις πιο συμφέρουσες δαπάνες σε όλο το "
@@ -818,4 +783,53 @@ msgstr ""
 #~ "Κλικάρετε στο menu της οθόνης που "
 #~ "εμφανίστηκε και στη συνέχεια στο 'Edit'."
 #~ msgstr ""
+
+#~ msgid "3.3 Μετακίνηση σημείου μέτρησης"
+#~ msgstr "3.3 Moving a measurement point"
+
+#~ msgid ""
+#~ "Επιλέγετε και κλικάρετε το επίπεδο με"
+#~ " το σημείο μέτρησης που θέλετε να "
+#~ "μετακινήσετε είτε απο το δέντρο είτε "
+#~ "απο την αρχική σελίδα της πλατφόρμας."
+#~ msgstr ""
+#~ "Select and click the level with "
+#~ "the measurement point you want to "
+#~ "move either from the tree or from"
+#~ " the platform's homepage."
+
+#~ msgid ""
+#~ "Στην οθόνη που εμφανίζεται, κλικάρετε το"
+#~ " σημείο μέτρησης που θέλετε να "
+#~ "μετακινήσετε."
+#~ msgstr ""
+#~ "On the screen that appears, click "
+#~ "on the measurement point we want "
+#~ "to move."
+
+#~ msgid ""
+#~ "Στην οθόνη που εμφανίζεται, κλικάρετε "
+#~ "στο 'Menu' και στη συνέχειά στο "
+#~ "'Move'."
+#~ msgstr "On the screen that appears, click on 'Menu' and then on 'Move'."
+
+#~ msgid ""
+#~ "Στη φόρμα που εμφανίζεται, κλικάρετε το"
+#~ " βελάκι και στο πλαίσιο 'Search' "
+#~ "πληκτρολογείτε το επίπεδο στο οποίο "
+#~ "θέλετε να μετακινήσετε το σημείο "
+#~ "μέτρησης. Απο κάτω θα εμφανιστεί το "
+#~ "όνομα του επίπεδου που πληκτρολογήσατε. "
+#~ "Το κλικάρετε και πατάτε 'Submit'."
+#~ msgstr ""
+#~ "In the form that appears, click "
+#~ "the arrow and in the 'Search' box"
+#~ " type the level you want to "
+#~ "move the measurement point to. Below "
+#~ "the name of the layer you typed"
+#~ " is displayed. Click it and click "
+#~ "'Submit'."
+
+#~ msgid "Στη συνέχεια θα θέσει τους συναγερμούς για κάθε trending value."
+#~ msgstr "Next he will set the alarm for every trending value."
 
