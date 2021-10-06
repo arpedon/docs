@@ -146,38 +146,6 @@ Acquisition settings
 
 .. image:: Measurement-point/Create-measurement-point-3.png
 
-Trending values
-***************
-
-Συχνά μας ενδιαφέρει να παρακολουθούμε κάποια χαρακτηριστικά ενός σήματος υψηλής ανάλυσης όπως επιταχύνσεων, υπερήχων ή ρεύματος.
-
-Η συγκεκριμένη λειτουργία επιτρέπει αυτή την παρακολούθηση.
-
-Μπορούμε να ορίσουμε αυτοματοποιημένους υπολογισμούς για κάθε νέα μέτρηση που θα έχουν τις παρακάτω επιλογές.
-
-* **Name:** Το όνομα της τιμής μέτρησης (πχ. RMS 500-700 Hz).
-
-* **Integration:** Η ολοκλήρωση. Επιλογές: No, First (Speed), Second (Displacement).
-
-* **Detection:** Η ανίχνευση της τιμής. Επιλογές: RMS, Crest Factor, Peak to Peak, True Peak, FFT bin.
-
-* **Units:** Οι μονάδες μέτρησης.
-
-* **High Pass:** Το υψηπερατό φίλτρο σε Hz.
-
-* **Low Pass:** Το χαμηλοπερατό φίλτρο σε Hz.
-
-Για να συμπληρώσετε τα στοιχεία των Trending values, κλικάρετε το βελάκι και στη συνέχεια το κουμπί 'Add trending value'. 
-
-Αν θέλετε να προσθέσετε παραπάνω απο ένα trending value, ξαναπατάτε το κουμπί και μια νέα λίστα θα εμφανιστεί απο κάτω απο αυτή που συμπληρώσατε.
-
-.. image:: Measurement-point/Create-measurement-point-6.png
-
-.. image:: Measurement-point/Create-measurement-point-7.png
-
-.. image:: Measurement-point/Create-measurement-point-8.png
-
-
 Όταν έχετε ολοκληρώσει την εισαγωγή των στοιχείων, κλικάρετε 'Create' στο τέλος της φόρμας.
 
 .. image:: Measurement-point/Create-measurement-point-4.png
@@ -224,7 +192,45 @@ Trending values
 .. image:: Measurement-point/Delete-measurement-point-3.png
 
 
-3.4 Συναγερμοί
+3.4 Trending Values
+-----------------------------
+
+Συχνά μας ενδιαφέρει να παρακολουθούμε κάποια χαρακτηριστικά ενός σήματος υψηλής ανάλυσης όπως επιταχύνσεων, υπερήχων ή ρεύματος.
+
+Η συγκεκριμένη λειτουργία επιτρέπει αυτή την παρακολούθηση.
+
+Μπορούμε να ορίσουμε αυτοματοποιημένους υπολογισμούς για κάθε νέα μέτρηση που θα έχουν τις παρακάτω επιλογές.
+
+* **Name:** Το όνομα της τιμής μέτρησης (πχ. RMS 500-700 Hz).
+
+* **Integration:** Η ολοκλήρωση. Επιλογές: No, First (Speed), Second (Displacement).
+
+* **Detection:** Η ανίχνευση της τιμής. Επιλογές: RMS, Crest Factor, Peak to Peak, True Peak, FFT bin.
+
+* **Units:** Οι μονάδες μέτρησης.
+
+* **High Pass:** Το υψηπερατό φίλτρο σε Hz.
+
+* **Low Pass:** Το χαμηλοπερατό φίλτρο σε Hz.
+
+Μεταβείτε στο σημείο μέτρησης που σας ενδιαφέρει. Έδω μπορείτε να δείτε τα ήδη υπάρχοντα trending values ή να προσθέσετε νέο πατώντας "Add".
+
+.. image:: Measurement-point/trending-values-1.png
+
+Συμπληρώσετε τα στοιχεία του Trending value και κλικάρετε το κουμπί 'Save' για να το αποθηκεύσετε. 
+
+.. image:: Measurement-point/trending-values-2.png
+
+Αν θέλετε να επεξεργαστείτε ένα trending value κλικάρετε "Edit".
+
+.. image:: Measurement-point/trending-values-3.png
+
+Στη νέα σελίδα που εμφανίζεται μπορείτε να επεξεργαστείτε τα πεδία του trending value και να αποθηκεύσετε τις αλλαγές σας κλικάροντας "Save". Μπορείτε να διαγράψετε το trending value κλικάροντας "Delete trending value".
+
+.. image:: Measurement-point/trending-values-4.png
+
+
+3.5 Συναγερμοί
 --------------
 Οι συναγερμοί σε ένα πρόγραμμα διαγνωστικής συντήρησης είναι εξαιρετικά κρίσιμοι γιά την αποδοτικότητα της διαδικασίας. Δείχνουν που πρέπει να επικεντρωθεί η προσοχή του χρήστη.
 
