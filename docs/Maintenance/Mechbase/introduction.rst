@@ -62,23 +62,19 @@
 
 .. image:: Introduction/Introduction-measurement-point-1.png
 
-Στα αριστερά βρίσκεται το εργαλείο θέσπισης συναγερμών.
+Στο κάτω μέρος της σελίδας παρουσιάζονται οι τιμές παρακολούθησης.
 
 .. image:: Introduction/Introduction-measurement-point-2.png
 
-Στο κάτω μέρος της σελίδας παρουσιάζονται οι μετρήσεις.
-
-.. image:: Introduction/Introduction-measurement-point-3.png
-
 1.3 Login-Logout
 ^^^^^^^^^^^^^^^^
-Ο χρήστης μπορεί να αποσυνδεθεί από την εφαρμογή από οποιαδήποτε οθόνη και αν βρίσκεται κάνοντας κλικ στο βελάκι και στη συνέχεια στο 'Logout'.
+Ο χρήστης μπορεί να αποσυνδεθεί από την εφαρμογή από οποιαδήποτε οθόνη και αν βρίσκεται κάνοντας κλικ στο όνομα χρήστη και στη συνέχεια στο 'Logout'.
 
 .. image:: Login-Logout/Logout.png
 
 Για να ξανασυνδεθείτε μετάβείτε στην σελίδα της εφαρμογής, εισάγετε το username και το password και κάντε κλικ στο 'Log in'.
 
-.. image:: Login-Logout/Login.jpg
+.. image:: Login-Logout/Login.png
 
 
 1.4 Users

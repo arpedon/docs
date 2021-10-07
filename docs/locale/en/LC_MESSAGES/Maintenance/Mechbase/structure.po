@@ -7,139 +7,103 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mechbase \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-08 10:43+0300\n"
+"POT-Creation-Date: 2021-08-06 10:18+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.9.1\n"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:2
+#: ../../Maintenance/Mechbase/structure.rst:2
 msgid "2. Δομή"
 msgstr "2. Structure"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:5
+#: ../../Maintenance/Mechbase/structure.rst:5
 msgid "2.1 Δημιουργία νέου επιπέδου εγκατάστασης"
 msgstr "2.1 Creating new plant layer"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:7
+#: ../../Maintenance/Mechbase/structure.rst:7
 msgid "Περιηγηθείτε στο επίπεδο το οποίο θα είναι 'πρόγονος' του νέου επιπέδου."
 msgstr "Navigate to the level that will be the 'ancestor' of the new level."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:9
-msgid "Από το μενού κλικάρετε Plant layer και στη συνέχεια 'Create'."
-msgstr "From the menu, click Plant layer and then 'Create'."
+#: ../../Maintenance/Mechbase/structure.rst:9
+msgid "Από το μενού κλικάρετε New Layer."
+msgstr "From the menu, click New layer."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:15
-msgid ""
-"Συμπληρώνετε το όνομα 'Name' και προαιρετικά τον τύπο 'Type' και όποια "
-"πεδία προκύψουν από την επιλογή αυτού. πχ για Type -> Section:."
-msgstr ""
-"Fill in the 'Name' and optionally the 'Type' and any fields that will "
-"result from this selection. eg. for Type -> Section :."
+#: ../../Maintenance/Mechbase/structure.rst:13
+msgid "Επιλέξτε τον τύπο επιπέδου που θέλετε να δημιουργήσετε."
+msgstr "Select the plant layer type you want to create."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:19
-msgid "Μόλις τα συμπληρώσετε κλικάρετε 'Create'."
-msgstr "Once filled in, click 'Create'."
+#: ../../Maintenance/Mechbase/structure.rst:17
+#: ../../Maintenance/Mechbase/structure.rst:50
+msgid "Συμπληρώνετε το όνομα 'Name' και το 'Parent layer'."
+msgstr "Fill in the ‘Name’ and the 'Parent layer'."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:23
+#: ../../Maintenance/Mechbase/structure.rst:21
+msgid "Μόλις τα συμπληρώσετε κλικάρετε 'Save changes'."
+msgstr "Once filled in, click 'Save changes'."
+
+#: ../../Maintenance/Mechbase/structure.rst:25
 msgid "Από το δέντρο περιηγείστε στο νέο επίπεδο."
 msgstr "From the tree navigate to the new level."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:28
+#: ../../Maintenance/Mechbase/structure.rst:30
 msgid "2.2 Επεξεργασία επιπέδου εγκατάστασης"
 msgstr "2.2 Editing a plant layer"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:30
+#: ../../Maintenance/Mechbase/structure.rst:32
 msgid "Περιηγηθείτε στο επίπεδο το οποίο θέλετε να επεξεργαστείτε."
 msgstr "Navigate to the layer that you want to edit."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:32
-msgid "Από το μενού κλικάρετε Plant layer και στη συνέχεια 'Edit'."
-msgstr "From the menu, click Plant layer and then 'Edit'."
+#: ../../Maintenance/Mechbase/structure.rst:34
+msgid "Από το μενού κλικάρετε 'Edit'."
+msgstr "From the menu, click 'Edit'."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:38
-msgid "Αλλάζετε τα στοιχεία που θέλετε και κλικάρετε 'Update'."
-msgstr "Change the data you want and click 'Update'."
+#: ../../Maintenance/Mechbase/structure.rst:38
+msgid "Αλλάζετε τα στοιχεία που θέλετε και κλικάρετε 'Save changes'."
+msgstr "Change the data you want and click 'Save changes'."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:47
-msgid "2.3 Μετακίνηση επιπέδου εγκατάστασης"
-msgstr "2.3 Moving a plant layer"
+#: ../../Maintenance/Mechbase/structure.rst:43
+msgid "2.3 Αντίγραφο επιπέδου εγκατάστασης"
+msgstr "2.3 Copying a plant layer"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:49
-msgid ""
-"Περιηγηθείτε στο επίπεδο το οποίο θέλετε να μετακινήσετε σε έναν "
-"'απόγονο' επίπεδου εγκατάστασης."
-msgstr "Navigate to the layer you want to move to an 'decendant' of a plant layer."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:51
-msgid "Από το μενού κλικάρετε Plant layer και στη συνέχεια 'Move'."
-msgstr "From the menu, click Plant layer and then 'Move'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:57
-msgid ""
-"Στη φόρμα που εμφανίζεται, κλικάρετε το βελάκι και στο πλαίσιο “Search” "
-"πληκτρολογείτε το επίπεδο στο οποίο θέλετε να μετακινήσετε το παρον "
-"επίπεδο εγκατάστασης."
-msgstr ""
-"In the form that appears, click the arrow and in the\" Search' box type "
-"the level you want to move this layer to."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:59
-msgid ""
-"Απο κάτω θα εμφανιστεί το όνομα του επίπεδου που πληκτρολογήσατε. Το "
-"κλικάρετε και πατάτε 'Submit'."
-msgstr ""
-"Below, the name of the layer you typed is displayed. Click it and click "
-"'Submit'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:68
-msgid "2.4 Αντίγραφο επιπέδου εγκατάστασης"
-msgstr "2.4 Copying a plant layer"
-
-#: ../../source/Maintenance/Mechbase/structure.rst:69
+#: ../../Maintenance/Mechbase/structure.rst:44
 msgid "Περιηγηθείτε στο επίπεδο για το οποίο θέλετε να δημιουργήσετε αντίγραφο."
 msgstr "Navigate to the level you want to create a copy for."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:71
+#: ../../Maintenance/Mechbase/structure.rst:46
 msgid "Από το μενού κλικάρετε Plant layer και στη συνέχεια 'Duplicate'."
 msgstr "From the menu, click Plant Layer and then 'Duplicate'."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:77
+#: ../../Maintenance/Mechbase/structure.rst:54
 msgid ""
 "To αντίγραφο το βλέπετε απο κάτω απο το επίπεδο που αντιγράψατε με το "
-"όνομα του επιπέδου και τη λέξη 'Copy'."
+"όνομα του επιπέδου και τη φράση 'Duplicate of'."
 msgstr ""
 "The copy is seen below the level you copied with the original layer name "
-"and the word 'Copy'."
+"and the word 'Duplicate of'."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:82
-msgid "2.5 Αναφορές"
-msgstr "2.5 Reports"
+#: ../../Maintenance/Mechbase/structure.rst:59
+msgid "2.4 Αναφορές"
+msgstr "2.4 Reports"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:84
+#: ../../Maintenance/Mechbase/structure.rst:61
 msgid ""
 "Για να δείτε τις αναφορές ενός επιπέδου εγκατάστασης, περιηγηθείτε στην "
 "εγκατάσταση που σας ενδιαφέρει, είτε απο το δέντρο είτε απο την αρχική "
-"σελίδα της πλατφόρμας, και κλικάρετε στο 'Menu'."
+"σελίδα της πλατφόρμας, και κλικάρετε στο 'Options'."
 msgstr ""
 "To view the reports of an plant layer, navigate to the layer you are "
 "interested in, either from the tree or from the homepage of the "
-"platform,and click on 'Menu'"
+"platform,and click on 'Options'."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:88
-msgid ""
-"Στη συνέχεια κλικάρετε το 'Reports' και θα εμφανιστούν οι επιλογές "
-"Status, Trends και Hours."
-msgstr "Then click 'Reports' and the Status, Trends and Hours options will appear."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:93
+#: ../../Maintenance/Mechbase/structure.rst:68
 msgid "Status"
 msgstr "Status"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:95
+#: ../../Maintenance/Mechbase/structure.rst:70
 msgid ""
 "To Status σας δείχνει τις αναφορές κατάστασης των μετρήσεων, το όνομα του"
 " εξοπλισμού, τις τιμές, σχόλια αν υπάρχουν και την κατάσταση."
@@ -147,67 +111,22 @@ msgstr ""
 "Status shows you the status of the measurements, the name of the "
 "equipment, the prices, comments if there are any and the status. "
 
-#: ../../source/Maintenance/Mechbase/structure.rst:97
+#: ../../Maintenance/Mechbase/structure.rst:74
 msgid ""
-"Στο πρώτο πεδίο πληκτρολογείτε την ημερομηνία σε μορφή D/M/YYYY ή "
-"κλικάρετε το εικονίδιο δεξιά του πεδίου για να επιλέξετε ημερομηνία απο "
-"την οποία θέλετε να εμφανιστούν οι αναφορές."
+"Κλικάροντας μία από τις δύο επιλογές στο πάνω δεξιά μέρος της οθόνης "
+"εφαρμόζετε φίτρο που σας επιτρέπει να δείτει τις μετρήσεις που έχουν "
+"ανατεθεί 'Non comformity' ή κάποια άλλη κατάσταση. Η προκαθορισμένη "
+"επιλογή είναι η εμφάνιση όλων των μετρήσεων."
 msgstr ""
-"In the first field, enter the date in D/M/ YYYY format or click the icon "
-"to the right of the field to select the date from which you want the "
-"reports to appear."
+"By clicking one of the options on the top right of the screen you can "
+"apply a filter and view the measurements assigned 'Non comformity' or "
+"some other status. The default option is to display all the measurements."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:99
-msgid ""
-"Στο ημερολόγιο που θα εμφανιστεί, επιλέξτε μήνα με τα βελάκια "
-"δεξια/αριστερά και ημέρα. Αν θέλετε να ξεκινούν οι αναφορές απο τη "
-"σημερινή μέρα, κλικάρετε 'Today'."
-msgstr ""
-"In the calendar that will appear, select month using the arrows "
-"right/left and day. If you want the reports to start from today, click "
-"'Today'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:101
-msgid ""
-"Επαναλάβετε την ίδια διαδικασία για το δέυτερο πεδίο, για να επιλέξετε "
-"την τελευταία ημερομηνία αναφορών που επιθυμείτε."
-msgstr ""
-"Repeat the same process for the second field, to select the last report "
-"date you want."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:105
-msgid ""
-"Στο τελευταίο πεδίο, η προκαθορισμένη επιλογή είναι η εμφάνιση όλων των "
-"μετρήσεων. Για να επιλέξετε τις μετρήσεις που έχουν ανατεθεί 'Good' ή "
-"οποιαδήποτε κατάσταση, κάντε κλικ στο βελάκι, και στη συνέχεια στην "
-"επιλογή 'Measurements with status Good or worse'."
-msgstr ""
-"In the last field, the default option is to display all the "
-"measurements.To select the measurements assigned 'Good' or any "
-"condition,click the arrow, and then select 'Measurements with status Good"
-" or worse'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:111
-msgid "Στη συνέχεια κλικάρετε 'Update report'."
-msgstr "Then click 'Update report'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:113
-msgid "Για τον καθαρισμό της φόρμας, κλικάρετε 'Clear'."
-msgstr "To clear the form, click 'Clear'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:115
-msgid ""
-"Αν θέλετε να κατεβάσετε στον υπολογιστή σας την αναφορά, κλικάρετε στο "
-"εικονίδιο αριστερά απο το κουμπί 'Clear'."
-msgstr ""
-"If you want to download the report to your computer, click on the icon "
-"tothe left of the 'Clear' button."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:122
+#: ../../Maintenance/Mechbase/structure.rst:80
 msgid "Trends"
 msgstr "Trends"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:124
+#: ../../Maintenance/Mechbase/structure.rst:82
 msgid ""
 "Στα trends μπορείτε να δείτε τις μετρήσεις των μηχανημάτων σε μορφή "
 "διαγράμματος."
@@ -215,7 +134,7 @@ msgstr ""
 "In the trends you can see the measurements of the machines in the form "
 "ofa chart."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:126
+#: ../../Maintenance/Mechbase/structure.rst:84
 msgid ""
 "Κλικάρετε την επιλογή 'Trends' και μια νέα οθόνη θα εμφανιστεί με "
 "γραφήματα για το κάθε μηχάνημα, άν υπάρχουν."
@@ -223,35 +142,28 @@ msgstr ""
 "Click 'Trends' and a new screen will appear with charts for each "
 "machine,if they exist"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:128
+#: ../../Maintenance/Mechbase/structure.rst:86
 msgid ""
-"Πάνω δεξιά, βλέπετε τις προκαθορισμένες ημερομηνίες για την εμφάνιση των "
+"Πάνω, βλέπετε τις προκαθορισμένες ημερομηνίες για την εμφάνιση των "
 "γραφημάτων."
-msgstr ""
-"At the top right, you see the predefined dates for the appearance of the "
-"charts."
+msgstr "At the top, you see the predefined dates for the appearance of the charts."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:132
-#, fuzzy
+#: ../../Maintenance/Mechbase/structure.rst:90
 msgid ""
 "Για την εμφάνιση γραφημάτων συγκεκριμένων ημερομηνιών, σείρετε το ποντίκι"
 " πάνω απο πρώτο πεδίο ημερομηνίας."
 msgstr "To display specific date charts, move the mouse over the first date field."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:134
+#: ../../Maintenance/Mechbase/structure.rst:92
 msgid ""
-"Κλικάρετε είτε τα βελάκια 'πάνω-κάτω' για να επιλέξετε κάποιες μέρες "
-"πρν/μετά είτε το βελάκι με ένδειξη προς τα κάτω για να εμφανιστεί το "
-"ημέρολόγιο απο όπου μπορείτε να επιλέξετε προηγούμενους μήνες. Απο εκεί, "
-"με τα βελάκια επιλέγετε το μήνα, κλικάρετε την ημέρα και στη συνέχεια "
-"κλικάρετε 'Submit'."
+"Είτε πληκτρολογήστε την ημερομηνία στο πεδίο είτε κλικάρετε το εικονίδιο "
+"ημερολογίου για να εμφανιστεί το ημέρολόγιο απο όπου μπορείτε να "
+"επιλέξετε προηγούμενους μήνες. Απο εκεί, με τα βελάκια επιλέγετε το μήνα."
 msgstr ""
-"Click either the 'up and down' arrows to select some days before/after "
-"orthe down arrow to display the calendar from which you can select "
-"previous months. From there, with the arrows you select the month, click "
-"the day and then click 'Submit'."
+"Either type a date in the field or click the calendar icon to display the"
+" previous months. From there, with the arrows you select the month."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:139
+#: ../../Maintenance/Mechbase/structure.rst:96
 msgid ""
 "Επαναλάβετε την ίδια διαδικασία στο δεύτερο πεδίο ημερομηνίας, για να "
 "επιλέξετε μέχρι ποιά ημέρα καταγραφής θα εμφανιστεί."
@@ -259,33 +171,21 @@ msgstr ""
 "Repeat the same process in the second calendar field, to select until "
 "what day the recording will appear."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:141
-msgid "Για να καθαρίσετε το πεδίο απο την ημερομηνία, κλικάρετε το 'x'."
-msgstr "To clear the field from the date, click 'x'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:146
+#: ../../Maintenance/Mechbase/structure.rst:100
 msgid ""
-"Υπάρχει επίσης η επιλογή να δείτε τα γραφήματα ανα ημέρες(Days), "
-"μήνες(Months) και χρόνο(Years)."
-msgstr "There is also the option to view charts by days , months and years."
+"Κλικάρετε 'Go' για να δείτε τις μετρήσεις για τις ημερομηνίες που "
+"επιλέξατε."
+msgstr "Click 'Go' to view the measurement for the dates you selected."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:148
-msgid ""
-"Για αυτή την επιλογή, κλικάρετε το τρίτο πεδίο, κάντε την επιλογή σας και"
-" κλικάρετε 'Submit'."
-msgstr ""
-"To select this option, click the third field, make your selection and "
-"click 'Submit'."
-
-#: ../../source/Maintenance/Mechbase/structure.rst:152
+#: ../../Maintenance/Mechbase/structure.rst:104
 msgid "Στα Trends δεν υπάρχουν μετρήσεις ωρομετρητών."
 msgstr "There are no timer measurements in the Trends."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:155
+#: ../../Maintenance/Mechbase/structure.rst:107
 msgid "Hours"
 msgstr "Hours"
 
-#: ../../source/Maintenance/Mechbase/structure.rst:157
+#: ../../Maintenance/Mechbase/structure.rst:109
 msgid ""
 "Στην οθόνη αυτή μπορείτε να δείτε τη λίστα με το πόσες ώρες έχει "
 "λειτουργήσει συνολικά ο κάθε εξοπλισμός μιας εγκατάστασης."
@@ -293,7 +193,13 @@ msgstr ""
 "On this screen you can see the list of how many hours each equipment of "
 "an installation has worked in total."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:161
+#: ../../Maintenance/Mechbase/structure.rst:111
+msgid ""
+"Για την εμφάνιση συγκεκριμένων ημερομηνιών ακολουθήστε την ίδια "
+"διαδικασία με αυτή που περιγράφεται στα trends."
+msgstr "To display specific dates follow the same process that was described in trends."
+
+#: ../../Maintenance/Mechbase/structure.rst:115
 msgid ""
 "Για να δείτε λεπτομεριακά τις ώρες λειτουργίας ενός απο τους εξοπλισμούς,"
 " κλικάρετε στο όνομα του εξοπλισμού."
@@ -301,7 +207,7 @@ msgstr ""
 "To see in detail the operating hours of one of the equipments, click on "
 "the name of the equipment."
 
-#: ../../source/Maintenance/Mechbase/structure.rst:165
+#: ../../Maintenance/Mechbase/structure.rst:119
 msgid ""
 "Στη νέα οθόνη που εμφανίζεται, βλέπετε το γράφημα των ωρών λειτουργίας "
 "και μή λειτουργίας του εξοπλισμού, και τη λίστα με τις ημερομηνίες και "
@@ -399,4 +305,173 @@ msgstr ""
 #~ "και ώρες που ο εξοπλισμός λειτουργούσε"
 #~ " ή όχι."
 #~ msgstr ""
+
+#~ msgid "Από το μενού κλικάρετε Plant layer και στη συνέχεια 'Create'."
+#~ msgstr "From the menu, click Plant layer and then 'Create'."
+
+#~ msgid ""
+#~ "Συμπληρώνετε το όνομα 'Name' και "
+#~ "προαιρετικά τον τύπο 'Type' και όποια"
+#~ " πεδία προκύψουν από την επιλογή "
+#~ "αυτού. πχ για Type -> Section:."
+#~ msgstr ""
+#~ "Fill in the 'Name' and optionally "
+#~ "the 'Type' and any fields that "
+#~ "will result from this selection. eg. "
+#~ "for Type -> Section :."
+
+#~ msgid "Από το μενού κλικάρετε Plant layer και στη συνέχεια 'Edit'."
+#~ msgstr "From the menu, click Plant layer and then 'Edit'."
+
+#~ msgid ""
+#~ "Στη συνέχεια κλικάρετε το 'Reports' και"
+#~ " θα εμφανιστούν οι επιλογές Status, "
+#~ "Trends και Hours."
+#~ msgstr ""
+#~ "Then click 'Reports' and the Status, "
+#~ "Trends and Hours options will appear."
+
+#~ msgid ""
+#~ "Κλικάρετε είτε τα βελάκια 'πάνω-κάτω' "
+#~ "για να επιλέξετε κάποιες μέρες πρν/μετά"
+#~ " είτε το βελάκι με ένδειξη προς "
+#~ "τα κάτω για να εμφανιστεί το "
+#~ "ημέρολόγιο απο όπου μπορείτε να "
+#~ "επιλέξετε προηγούμενους μήνες. Απο εκεί, "
+#~ "με τα βελάκια επιλέγετε το μήνα, "
+#~ "κλικάρετε την ημέρα και στη συνέχεια "
+#~ "κλικάρετε 'Submit'."
+#~ msgstr ""
+#~ "Click either the 'up and down' "
+#~ "arrows to select some days before/after"
+#~ " orthe down arrow to display the "
+#~ "calendar from which you can select "
+#~ "previous months. From there, with the"
+#~ " arrows you select the month, click"
+#~ " the day and then click 'Submit'."
+
+#~ msgid "Για να καθαρίσετε το πεδίο απο την ημερομηνία, κλικάρετε το 'x'."
+#~ msgstr "To clear the field from the date, click 'x'."
+
+#~ msgid ""
+#~ "Υπάρχει επίσης η επιλογή να δείτε "
+#~ "τα γραφήματα ανα ημέρες(Days), μήνες(Months)"
+#~ " και χρόνο(Years)."
+#~ msgstr "There is also the option to view charts by days , months and years."
+
+#~ msgid ""
+#~ "Για αυτή την επιλογή, κλικάρετε το "
+#~ "τρίτο πεδίο, κάντε την επιλογή σας "
+#~ "και κλικάρετε 'Submit'."
+#~ msgstr ""
+#~ "To select this option, click the "
+#~ "third field, make your selection and "
+#~ "click 'Submit'."
+
+#~ msgid "2.3 Μετακίνηση επιπέδου εγκατάστασης"
+#~ msgstr "2.3 Moving a plant layer"
+
+#~ msgid ""
+#~ "Περιηγηθείτε στο επίπεδο το οποίο θέλετε"
+#~ " να μετακινήσετε σε έναν 'απόγονο' "
+#~ "επίπεδου εγκατάστασης."
+#~ msgstr ""
+#~ "Navigate to the layer you want to"
+#~ " move to an 'decendant' of a "
+#~ "plant layer."
+
+#~ msgid "Από το μενού κλικάρετε Plant layer και στη συνέχεια 'Move'."
+#~ msgstr "From the menu, click Plant layer and then 'Move'."
+
+#~ msgid ""
+#~ "Στη φόρμα που εμφανίζεται, κλικάρετε το"
+#~ " βελάκι και στο πλαίσιο “Search” "
+#~ "πληκτρολογείτε το επίπεδο στο οποίο "
+#~ "θέλετε να μετακινήσετε το παρον επίπεδο"
+#~ " εγκατάστασης."
+#~ msgstr ""
+#~ "In the form that appears, click "
+#~ "the arrow and in the\" Search' box"
+#~ " type the level you want to "
+#~ "move this layer to."
+
+#~ msgid ""
+#~ "Απο κάτω θα εμφανιστεί το όνομα "
+#~ "του επίπεδου που πληκτρολογήσατε. Το "
+#~ "κλικάρετε και πατάτε 'Submit'."
+#~ msgstr ""
+#~ "Below, the name of the layer you"
+#~ " typed is displayed. Click it and "
+#~ "click 'Submit'."
+
+#~ msgid ""
+#~ "Στο πρώτο πεδίο πληκτρολογείτε την "
+#~ "ημερομηνία σε μορφή D/M/YYYY ή κλικάρετε"
+#~ " το εικονίδιο δεξιά του πεδίου για"
+#~ " να επιλέξετε ημερομηνία απο την "
+#~ "οποία θέλετε να εμφανιστούν οι αναφορές."
+#~ msgstr ""
+#~ "In the first field, enter the date"
+#~ " in D/M/ YYYY format or click "
+#~ "the icon to the right of the "
+#~ "field to select the date from "
+#~ "which you want the reports to "
+#~ "appear."
+
+#~ msgid ""
+#~ "Στο ημερολόγιο που θα εμφανιστεί, "
+#~ "επιλέξτε μήνα με τα βελάκια "
+#~ "δεξια/αριστερά και ημέρα. Αν θέλετε να"
+#~ " ξεκινούν οι αναφορές απο τη σημερινή"
+#~ " μέρα, κλικάρετε 'Today'."
+#~ msgstr ""
+#~ "In the calendar that will appear, "
+#~ "select month using the arrows right/left"
+#~ " and day. If you want the "
+#~ "reports to start from today, click "
+#~ "'Today'."
+
+#~ msgid ""
+#~ "Επαναλάβετε την ίδια διαδικασία για το"
+#~ " δέυτερο πεδίο, για να επιλέξετε την"
+#~ " τελευταία ημερομηνία αναφορών που "
+#~ "επιθυμείτε."
+#~ msgstr ""
+#~ "Repeat the same process for the "
+#~ "second field, to select the last "
+#~ "report date you want."
+
+#~ msgid ""
+#~ "Στο τελευταίο πεδίο, η προκαθορισμένη "
+#~ "επιλογή είναι η εμφάνιση όλων των "
+#~ "μετρήσεων. Για να επιλέξετε τις "
+#~ "μετρήσεις που έχουν ανατεθεί 'Good' ή"
+#~ " οποιαδήποτε κατάσταση, κάντε κλικ στο "
+#~ "βελάκι, και στη συνέχεια στην επιλογή"
+#~ " 'Measurements with status Good or "
+#~ "worse'."
+#~ msgstr ""
+#~ "In the last field, the default "
+#~ "option is to display all the "
+#~ "measurements.To select the measurements "
+#~ "assigned 'Good' or any condition,click "
+#~ "the arrow, and then select 'Measurements"
+#~ " with status Good or worse'."
+
+#~ msgid "Στη συνέχεια κλικάρετε 'Update report'."
+#~ msgstr "Then click 'Update report'."
+
+#~ msgid "Για τον καθαρισμό της φόρμας, κλικάρετε 'Clear'."
+#~ msgstr "To clear the form, click 'Clear'."
+
+#~ msgid ""
+#~ "Αν θέλετε να κατεβάσετε στον υπολογιστή"
+#~ " σας την αναφορά, κλικάρετε στο "
+#~ "εικονίδιο αριστερά απο το κουμπί "
+#~ "'Clear'."
+#~ msgstr ""
+#~ "If you want to download the report"
+#~ " to your computer, click on the "
+#~ "icon tothe left of the 'Clear' "
+#~ "button."
 

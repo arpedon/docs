@@ -8,11 +8,9 @@
 
 .. image:: Measurement-point/Create-measurement-point-1.png
 
+Κλικάροντας 'Add', στην νέα οθόνη, εμφανίζεται η φόρμα δημιουργίας σημείου μέτρησης.
+
 .. image:: Measurement-point/Create-measurement-point-2.png
-
-Κλικάροντας 'New', στην νέα οθόνη, εμφανίζεται η φόρμα δημιουργίας σημείου μέτρησης.
-
-.. image:: Measurement-point/Create-measurement-point-3.png
 
 **Φόρμα δημιουργίας σημείου μέτρησης**
 
@@ -146,14 +144,56 @@ Acquisition settings
 
 * **Offset(V):** Η απόκλιση.
 
-Για να ανοίξετε τη λίστα 'Acquisition settings', κλικάρετε το βελάκι.
+.. image:: Measurement-point/Create-measurement-point-3.png
 
-.. image:: Measurement-point/Create-measurement-point-5.png
+Όταν έχετε ολοκληρώσει την εισαγωγή των στοιχείων, κλικάρετε 'Create' στο τέλος της φόρμας.
 
-.. image:: Measurement-point/Create-measurement-point-5b.png
+.. image:: Measurement-point/Create-measurement-point-4.png
 
-Trending values
-***************
+
+3.2 Επεξεργασία σημείου μέτρησης
+--------------------------------
+
+Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να επεξεργαστείτε είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας.
+
+.. image:: Measurement-point/Create-measurement-point-1.png
+
+Στην οθόνη που εμφανίζεται, κλικάρετε στο όνομα του σημείου μέτρησης που θέλετε να επεξεργαστείτε.
+
+.. image:: Measurement-point/Edit-measurement-point-1.png
+
+Κλικάρετε στο μενού της οθόνης που εμφανίστηκε και στη συνέχεια στο 'Edit'.
+
+.. image:: Measurement-point/Edit-measurement-point-2.png
+
+Στη φόρμα που εμφανίζετε, αλλάζετε τα στοιχεία που θέλετε και κλικάρετε 'Save'.
+
+.. image:: Measurement-point/Edit-measurement-point-3.png
+
+.. image:: Measurement-point/Edit-measurement-point-4.png
+
+3.3 Διαγραφή σημείου μέτρησης
+-----------------------------
+
+Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να διαγράψετε είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας.
+
+.. image:: Measurement-point/Create-measurement-point-1.png
+
+Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να διαγράψετε.
+
+.. image:: Measurement-point/Delete-measurement-point-1.png
+
+Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο 'Delete'.
+
+.. image:: Measurement-point/Delete-measurement-point-2.png
+
+Στο παράθυρο που θα εμφανιστεί στο πάνω μέρος της σελίδας το οποίο σας ρωτάει αν είσαστε σίγουροι οτι θέλετε να διαγράψετε το σημείο, κλικάρετε 'ΟΚ'. Σε περίπτωση που δεν θέλετε να το διαγράψετε, πατάτε 'Cancel'
+
+.. image:: Measurement-point/Delete-measurement-point-3.png
+
+
+3.4 Trending Values
+-----------------------------
 
 Συχνά μας ενδιαφέρει να παρακολουθούμε κάποια χαρακτηριστικά ενός σήματος υψηλής ανάλυσης όπως επιταχύνσεων, υπερήχων ή ρεύματος.
 
@@ -173,86 +213,21 @@ Trending values
 
 * **Low Pass:** Το χαμηλοπερατό φίλτρο σε Hz.
 
-Για να συμπληρώσετε τα στοιχεία των Trending values, κλικάρετε το βελάκι και στη συνέχεια το κουμπί 'Add trending value'. 
+Μεταβείτε στο σημείο μέτρησης που σας ενδιαφέρει. Έδω μπορείτε να δείτε τα ήδη υπάρχοντα trending values ή να προσθέσετε νέο πατώντας "Add".
 
-Αν θέλετε να προσθέσετε παραπάνω απο ένα trending value, ξαναπατάτε το κουμπί και μια νέα λίστα θα εμφανιστεί απο κάτω απο αυτή που συμπληρώσατε.
+.. image:: Measurement-point/trending-values-1.png
 
-.. image:: Measurement-point/Create-measurement-point-6.png
+Συμπληρώσετε τα στοιχεία του Trending value και κλικάρετε το κουμπί 'Save' για να το αποθηκεύσετε. 
 
-.. image:: Measurement-point/Create-measurement-point-7.png
+.. image:: Measurement-point/trending-values-2.png
 
-.. image:: Measurement-point/Create-measurement-point-8.png
+Αν θέλετε να επεξεργαστείτε ένα trending value κλικάρετε "Edit".
 
+.. image:: Measurement-point/trending-values-3.png
 
-Όταν έχετε ολοκληρώσει την εισαγωγή των στοιχείων, κλικάρετε 'Create' στο τέλος της φόρμας.
+Στη νέα σελίδα που εμφανίζεται μπορείτε να επεξεργαστείτε τα πεδία του trending value και να αποθηκεύσετε τις αλλαγές σας κλικάροντας "Save". Μπορείτε να διαγράψετε το trending value κλικάροντας "Delete trending value".
 
-.. image:: Measurement-point/Create-measurement-point-4.png
-
-
-3.2 Επεξεργασία σημείου μέτρησης
---------------------------------
-
-Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να επεξεργαστείτε είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας.
-
-.. image:: Measurement-point/Create-measurement-point-1.png
-
-.. image:: Measurement-point/Create-measurement-point-2.png
-
-Στην οθόνη που εμφανίζεται, κλικάρετε το 'μολύβι' του σημείου μέτρησης που θέλετε να επεξεργαστείτε.
-
-.. image:: Measurement-point/Edit-measurement-point-1.png
-
-Στη φόρμα που εμφανίζετε, αλλάζετε τα στοιχεία που θέλετε και κλικάρετε 'Update'
-
-.. image:: Measurement-point/Edit-measurement-point-2.png
-
-.. image:: Measurement-point/Edit-measurement-point-3.png
-
-3.3 Μετακίνηση σημείου μέτρησης
--------------------------------
-
-Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να μετακινήσετε είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας.
-
-.. image:: Measurement-point/Create-measurement-point-1.png
-
-.. image:: Measurement-point/Create-measurement-point-2.png
-
-Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να μετακινήσετε.
-
-.. image:: Measurement-point/Move-measurement-point-1.png
-
-Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο 'Move'.
-
-.. image:: Measurement-point/Move-measurement-point-2.png
-
-Στη φόρμα που εμφανίζεται, κλικάρετε το βελάκι και στο πλαίσιο 'Search' πληκτρολογείτε το επίπεδο στο οποίο θέλετε να μετακινήσετε το σημείο μέτρησης. Απο κάτω θα εμφανιστεί το όνομα του επίπεδου που πληκτρολογήσατε. Το κλικάρετε και πατάτε 'Submit'.
-
-.. image:: Measurement-point/Move-measurement-point-3.png
-
-.. image:: Measurement-point/Move-measurement-point-4.png
-
-.. image:: Measurement-point/Move-measurement-point-5.png
-
-3.4 Διαγραφή σημείου μέτρησης
------------------------------
-
-Επιλέγετε και κλικάρετε το επίπεδο με το σημείο μέτρησης που θέλετε να διαγράψετε είτε απο το δέντρο είτε απο την αρχική σελίδα της πλατφόρμας.
-
-.. image:: Measurement-point/Create-measurement-point-1.png
-
-.. image:: Measurement-point/Create-measurement-point-2.png
-
-Στην οθόνη που εμφανίζεται, κλικάρετε το σημείο μέτρησης που θέλετε να διαγράψετε.
-
-.. image:: Measurement-point/Move-measurement-point-1.png
-
-Στην οθόνη που εμφανίζεται, κλικάρετε στο 'Menu' και στη συνέχειά στο 'Delete'.
-
-.. image:: Measurement-point/Delete-measurement-point-1.png
-
-Στο παράθυρο που θα εμφανιστεί στο πάνω μέρος της σελίδας το οποίο σας ρωτάει αν είσαστε σίγουροι οτι θέλετε να διαγράψετε το σημείο, κλικάρετε 'ΟΚ'. Σε περίπτωση που δεν θέλετε να το διαγράψετε, πατάτε 'Cancel'
-
-.. image:: Measurement-point/Delete-measurement-point-2.png
+.. image:: Measurement-point/trending-values-4.png
 
 
 3.5 Συναγερμοί
@@ -266,13 +241,17 @@ Simple alarms
 
 Η πιο απλή μέθοδος συναγερμών είναι η σύγκριση τρέχουσα τιμής με την τιμή βάσης.
 
-Ο χρήστης γνωρίζοντας το επίπεδο συναγερμού που θέλει να θέσει μεταβαίνει στο σημείο μέτρησης. Εκεί θα συναντήσει την επιλογή: **Simple Alarms**
+Ο χρήστης γνωρίζοντας το επίπεδο συναγερμού που θέλει να θέσει μεταβαίνει στο σημείο μέτρησης. Εκεί θα συναντήσει την επιλογή: **History**
 
-Στη συνέχεια θα θέσει τους συναγερμούς για κάθε trending value.
+Στη συνέχεια θα θέσει τους συναγερμούς για κάθε trending value. Κλικάροντας 'show alarms' βλέπει τους ήδη υπάρχοντες συναγερμούς και μπορεί να προσθέσει νέους επιλέγοντας 'Add alarm'.
 
-.. image:: Measurement-point/alarms-simple.png
+.. image:: Measurement-point/alarms-simple-1.png
 
-Για να επικυρώσει την επιλογή θα επιλέξει **Update alarms**.
+.. image:: Measurement-point/alarms-simple-2.png
+
+Για να επικυρώσει την επιλογή θα επιλέξει **Save**.
+
+.. image:: Measurement-point/alarms-simple-3.png
 
 Statistical alarms
 ******************
