@@ -136,7 +136,7 @@ Acquisition settings
 
 .. math::
 
-    Final = (Voltage + Offset) * \frac{1000}{Sensitivity}
+    Final = Voltage * \frac{1000}{Sensitivity} + Offset
 
 * **Sensitivity(mV/unit):** Η ευαισθησία του σήματος.
 
