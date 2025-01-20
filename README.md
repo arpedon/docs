@@ -32,7 +32,7 @@ poetry install
 ```
 Αφού τελειώσει βοηθάει να ακολουθήσουμε τον [οδηγό](https://code.visualstudio.com/docs/python/environments).
 
-(set virtualenv on vscode)
+Χρησιμοποιούμε το virtualenv στο VScode.
 
 Για βρούμε το περιβάλλον και να το εισάγουμε στο `Python: Select Interpreter`:
 
@@ -48,7 +48,7 @@ Using virtualenv: C:\Users\tsangiotis\AppData\Local\pypoetry\Cache\virtualenvs\a
 
 ## 3. Ξεκινώντας να γράφουμε
 
-Ανοίγουμε το vscode και στο Terminal εκτελούμε τις παρακάτω εντολές.
+Ανοίγουμε το VScode και στο Terminal εκτελούμε την εντολή:
 
 ```
 cd docs
