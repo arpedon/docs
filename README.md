@@ -14,6 +14,8 @@
 
 ### 1. Clone project
 
+Μέσω Τερματικού πηγαίνουμε στο path όπου βρίσκονται τα project μας.
+
 Κατεβάζουμε τον κώδικα του αποθετηρίου:
 
 ```
@@ -22,10 +24,13 @@ git clone git@github.com:arpedon/docs.git; cd docs
 
 ### 2. Install tools
 
+Κατεβάζουμε το poetry :
+
 ```
 sudo apt install python3 python3-poetry
 poetry install
 ```
+Αφού τελειώσει βοηθάει να ακολουθήσουμε τον [οδηγό](https://code.visualstudio.com/docs/python/environments).
 
 (set virtualenv on vscode)
 
@@ -60,6 +65,8 @@ $ make -e SPHINXOPTS="-D language='el'" html
 Τα δημιουργημένα αρχεία ειναι στο φάκελο `_build`. Πηγαίνοντας στο φάκελο αυτό ανοίγουμε το `index.html` και βλέπουμε το αποτέλεσμα. (Reveal in File Explorer)
 
 ## 5. Δημιουργία των απαιτούμενων αρχείων για μετάφραση στα Αγγλικά
+
+Δημιουργούμε τα αρχεία εκτελώντας την παρακάτω εντολή.
 
 ```bash
 sphinx-build -b gettext . _build/gettext; sphinx-intl update -p _build/gettext -l en
