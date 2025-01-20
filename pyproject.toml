@@ -5,11 +5,11 @@ description = ""
 authors = ["Tasos Sangiotis <tsangiotis@arpedon.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-Sphinx = "^3.5.4"
-sphinx-intl = "^2.0.1"
-sphinx-rtd-theme = "^0.5.2"
-sphinx-autobuild = "^2021.3.14"
+python = "^3.11"
+sphinx = "^8.1.3"
+sphinx-rtd-theme = "^3.0.2"
+sphinx-intl = "^2.3.1"
+sphinx-autobuild = "^2024.10.3"
 
 [tool.poetry.dev-dependencies]
 watchdog = "^2.1.0"

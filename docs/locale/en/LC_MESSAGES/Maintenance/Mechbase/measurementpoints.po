@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mechbase \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-06 19:02+0300\n"
+"POT-Creation-Date: 2025-01-20 10:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.16.0\n"
 
 #: ../../Maintenance/Mechbase/measurementpoints.rst:2
 msgid "3. Σημεία Μέτρησης"
@@ -363,7 +363,8 @@ msgstr ""
 "extracted from the equation:"
 
 #: ../../Maintenance/Mechbase/measurementpoints.rst:137
-msgid "Final = (Voltage + Offset) * \\frac{1000}{Sensitivity}"
+#, fuzzy
+msgid "Final = Voltage * \\frac{1000}{Sensitivity} + Offset"
 msgstr "Final = (Voltage + Offset) * \\frac{1000}{Sensitivity}"
 
 #: ../../Maintenance/Mechbase/measurementpoints.rst:141
@@ -515,7 +516,9 @@ msgstr "**Low Pass:** The low-pass filter in Hz."
 msgid ""
 "Μεταβείτε στο σημείο μέτρησης που σας ενδιαφέρει. Έδω μπορείτε να δείτε "
 "τα ήδη υπάρχοντα trending values ή να προσθέσετε νέο πατώντας \"Add\"."
-msgstr "Navigate to the measurement point. In this screen you can view the existing trending values or add new ones by clicking \"Add\"."
+msgstr ""
+"Navigate to the measurement point. In this screen you can view the "
+"existing trending values or add new ones by clicking \"Add\"."
 
 #: ../../Maintenance/Mechbase/measurementpoints.rst:220
 msgid ""
@@ -533,7 +536,10 @@ msgid ""
 "trending value και να αποθηκεύσετε τις αλλαγές σας κλικάροντας \"Save\". "
 "Μπορείτε να διαγράψετε το trending value κλικάροντας \"Delete trending "
 "value\"."
-msgstr "In the new screen that appears you can edit the fields of the trending value and save your changes by clicking \"Save\". You can delete the trending value by clicking \"Delete trending value\"."
+msgstr ""
+"In the new screen that appears you can edit the fields of the trending "
+"value and save your changes by clicking \"Save\". You can delete the "
+"trending value by clicking \"Delete trending value\"."
 
 #: ../../Maintenance/Mechbase/measurementpoints.rst:234
 msgid "3.5 Συναγερμοί"
