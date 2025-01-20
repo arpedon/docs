@@ -28,7 +28,7 @@ git clone git@github.com:arpedon/docs.git; cd docs
 
 ```
 sudo apt install python3 python3-poetry
-poetry install
+poetry install --no-root
 ```
 Αφού τελειώσει βοηθάει να ακολουθήσουμε τον [οδηγό](https://code.visualstudio.com/docs/python/environments).
 
