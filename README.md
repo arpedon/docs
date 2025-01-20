@@ -14,7 +14,7 @@
 
 ### 1. Clone project
 
-Μέσω Powershell πηγαίνουμε στο path οπου βρίσκονται τα project μας.
+Μέσω Τερματικού ανοίγουμε το Ubuntu και πηγαίνουμε στο path όπου βρίσκονται τα project μας.
 
 Κατεβάζουμε τον κώδικα του αποθετηρίου:
 
@@ -24,16 +24,19 @@ git clone git@github.com:arpedon/docs.git; cd docs
 
 ### 2. Install tools
 
+Κατεβάζουμε το poetry :
+
 ```
+sudo apt install python3 python3-poetry
 poetry install
 ```
 
-Αφού τελειώσει βοηθάει να ακολουθήσουμε [τον οδηγό](https://code.visualstudio.com/docs/python/environments). 
+Αφού τελειώσει βοηθάει να ακολουθήσουμε τον [οδηγό](https://code.visualstudio.com/docs/python/environments). 
 
 Για βρούμε το περιβάλλον και να το εισάγουμε στο `Python: Select Interpreter`:
 
-```powershell
-PS C:\Users\user\development\docs> poetry show -v
+```bash
+poetry show -v
 Using virtualenv: C:\Users\tsangiotis\AppData\Local\pypoetry\Cache\virtualenvs\arpedon-docs-ih6q2V8l-py3.8
 ...
 ...
@@ -44,7 +47,7 @@ Using virtualenv: C:\Users\tsangiotis\AppData\Local\pypoetry\Cache\virtualenvs\a
 
 ## 3. Ξεκινώντας να γράφουμε
 
-Ανοίγουμε το vscode και στο Terminal εκτελούμε τις παρακάτω εντολές.
+Ανοίγουμε το VScode και στο Terminal εκτελούμε την εντολή:
 
 ```
 cd docs
@@ -54,19 +57,19 @@ cd docs
 
 ## 4. Build των docs στα Ελληνικά
 
-Windows (Powershell):  
+Δημιουργούμε τα αρχεία στα Ελληνικά.
 
-```powershell
-Set-Item env:SPHINXOPTS "-D language=el"; .\make.bat html
+```bash
+$ make -e SPHINXOPTS="-D language='el'" html
 ```
 
 Τα δημιουργημένα αρχεία ειναι στο φάκελο `_build`. Πηγαίνοντας στο φάκελο αυτό ανοίγουμε το `index.html` και βλέπουμε το αποτέλεσμα.
 
 ## 5. Δημιουργία των απαιτούμενων αρχείων για μετάφραση στα Αγγλικά
 
-Windows (Powershell): 
+Δημιουργούμε τα αρχεία εκτελώντας την παρακάτω εντολή.
 
-```powershell
+```bash
 sphinx-build -b gettext . _build/gettext; sphinx-intl update -p _build/gettext -l en
 ```
 
@@ -74,10 +77,8 @@ sphinx-build -b gettext . _build/gettext; sphinx-intl update -p _build/gettext -
 
 ## 6. Δημιουργία της μετάφρασης
 
-Windows (Powershell): 
-
-```powershell
-Set-Item env:SPHINXOPTS "-D language=en"; .\make.bat html
+```bash
+$ make -e SPHINXOPTS="-D language='en'" html
 ```
 
 Πλέον στο φάκελο `_build` τα αρχεία έχουν αντικατασταθεί με την Αγγλική έκδοση.
