@@ -129,6 +129,7 @@ msgid "Πατήστε \"Add to route\" για να προσθέσετε ένα �
 msgstr ""
 "Click \"Add to route\" to add a measurement point to the route."
 
+#~ ../../Maintenance/Mechbase/routes.rst:
 #~ msgid ""
 #~ "Στυ συνέχεια, μπορείτε να προσθέσετε "
 #~ "permissions είτε για κάποιον user είτε"
@@ -136,6 +137,7 @@ msgstr ""
 #~ "και κλικάροντας το αντίστοιχο κουμπί."
 #~ msgstr ""
 
+#~ ../../Maintenance/Mechbase/routes.rst:
 #~ msgid ""
 #~ "Στη νέα οθόνη, μπορείτε να προσθέσετε"
 #~ " τα plant layer του route. "
@@ -153,6 +155,7 @@ msgstr ""
 #~ "layer you want and it will be "
 #~ "added below."
 
+#~ ../../Maintenance/Mechbase/routes.rst:
 #~ msgid ""
 #~ "Για να αφαιρέσετε κάποιο αισθητήρα, "
 #~ "κλικάρετε πάλι πάνω στο όνομα του "
