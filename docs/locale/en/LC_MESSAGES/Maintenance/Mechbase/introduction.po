@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mechbase \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-24 17:58+0300\n"
+"POT-Creation-Date: 2025-01-22 09:03+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.16.0\n"
 
 #: ../../Maintenance/Mechbase/introduction.rst:3
 msgid "1. Εισαγωγή"
@@ -48,8 +48,9 @@ msgstr ""
 "means that every user has the data they \"really need\"."
 
 #: ../../Maintenance/Mechbase/introduction.rst:11
+#, fuzzy
 msgid ""
-"Βασική δυνατότητα του Mechbase είναι η υποστήριξή σημάτων υψηλού ρυθμού "
+"Βασική δυνατότητα του Mechbase είναι η υποστήριξη σημάτων υψηλού ρυθμού "
 "δειγματοληψίας. Οι μετρήσεις αυτές μπορούν να 'κατέβουν' με ευκολία έτσι "
 "ώστε να αναλυθούν από επαγγελματίες αναλυτές."
 msgstr ""
@@ -86,8 +87,9 @@ msgstr ""
 "dashboard."
 
 #: ../../Maintenance/Mechbase/introduction.rst:24
+#, fuzzy
 msgid ""
-"Πατώντας τη λέξη 'Mechbase' από οποιαδήποτε οθόνη, ο χρήστης μεταφέρετε "
+"Πατώντας τη λέξη 'Mechbase' από οποιαδήποτε οθόνη, ο χρήστης μεταφέρεται "
 "στην οθόνη dashboard."
 msgstr ""
 "Clicking the word 'Mechbase' from any screen, the user is transferred to "
