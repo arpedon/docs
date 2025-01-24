@@ -9,29 +9,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-17 19:38+0300\n"
+"POT-Creation-Date: 2025-01-24 08:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.16.0\n"
 
-#: ../../source/Maintenance/Precision-Maintenance/grease-calculator.rst:2
+#: ../../Maintenance/Precision-Maintenance/grease-calculator.rst:2
 msgid "Υπολογιστής ποσότητας και συχνότητας λίπανσης"
 msgstr "Grease Volume and Frequency Calculator"
 
-#: ../../source/Maintenance/Precision-Maintenance/grease-calculator.rst:11
+#: ../../Maintenance/Precision-Maintenance/grease-calculator.rst:11
+#, fuzzy
 msgid ""
-"*Οι τιμές που υπολογίζονται βασίζονται στα δεδομένα που εισάχθηκαν και "
+"*Οι τιμές που υπολογίζονται βασίζονται στα δεδομένα που εισήχθησαν και "
 "μπορεί να μην αντιπροσωπεύουν πραγματικά εν λειτουργία περιβάλλοντα. Για "
 "την αύξηση της ακρίβειας της ποσότητας και της ποιότητας λίπανσης "
 "προτείνουμε τη χρήση εργαλείων κατάστασης όπως η ανάλυση λιπαντικών και "
 "οι υπέρηχοι.*"
 msgstr ""
 "*The values calculated are based on the data that is input and may not "
-"reflect actual in-service environments. To increase the accuracy of regrease "
-"volumes and frequencies we recommend the use of condition-based tools such as "
-"grease analysis and ultrasound.*"
+"reflect actual in-service environments. To increase the accuracy of "
+"regrease volumes and frequencies we recommend the use of condition-based "
+"tools such as grease analysis and ultrasound.*"
 
