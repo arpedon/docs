@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mechbase \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-27 10:29+0200\n"
+"POT-Creation-Date: 2025-01-27 10:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,9 +104,10 @@ msgid "1.2.1 Δενδρικό διάγραμμα εγκατάστασης"
 msgstr "1.2.1 Plant tree diagram"
 
 #: ../../Maintenance/Mechbase/introduction.rst:37
+#, fuzzy
 msgid ""
-"Στο πλήρες δένδρο παρουσιάζονται με ιεραρχία αρχικά η εγκατάσταση, στην "
-"συνέχεια τα επιμέρους τμήματα αυτής."
+"Στο πλήρες δέντρο παρουσιάζονται με ιεραρχία αρχικά η εγκατάσταση και στη"
+" συνέχεια τα επιμέρους τμήματα αυτής."
 msgstr ""
 "In the complete tree, the plant is presented with hierarchy, first the "
 "plant then the individual parts thereof."
@@ -128,18 +129,15 @@ msgid "Μέσω του δενδρικού διαγράμματος περιηγ�
 msgstr "Through the tree diagram navigate to the desired equipment."
 
 #: ../../Maintenance/Mechbase/introduction.rst:49
-#: ../../Maintenance/Mechbase/introduction.rst:61
-msgid ""
-"Αρχικά αντικρίζετε το όνομα, τη διαδρομή μέσα στο εργοστάσιο και τυχών "
-"εικόνες του επιπέδου της εγκατάστασης."
+#, fuzzy
+msgid "Αρχικά αντικρίζετε το όνομα και τη διαδρομή μέσα στο εργοστάσιο."
 msgstr ""
 "First you see the name, the route inside the factory, and any pictures of"
 " the plant level."
 
 #: ../../Maintenance/Mechbase/introduction.rst:51
-msgid ""
-"Στο κάτω μέρος της σελίδας βλέπετε τα σημεία μέτρησης (Measurement "
-"Points) εφόσον υπάρχουν."
+#, fuzzy
+msgid "Στο μεσαίο μέρος της σελίδας βλέπετε τα Σημεία μέτρησης, εφόσον υπάρχουν."
 msgstr "At the bottom of the page you see the Measurement points, if any."
 
 #: ../../Maintenance/Mechbase/introduction.rst:55
@@ -150,56 +148,68 @@ msgstr "Selecting a measurement point takes you to the point page."
 msgid "1.2.3 Σημείο μέτρησης"
 msgstr "1.2.3 Measurement point"
 
+#: ../../Maintenance/Mechbase/introduction.rst:61
+#, fuzzy
+msgid ""
+"Αρχικά αντικρίζετε το όνομα, τη διαδρομή μέσα στο εργοστάσιο, το χρονικό "
+"εύρος που επιθυμούμε να λάβουμε τις μετρήσεις και τυχών εικόνες του "
+"επιπέδου της εγκατάστασης."
+msgstr ""
+"First you see the name, the route inside the factory, and any pictures of"
+" the plant level."
+
 #: ../../Maintenance/Mechbase/introduction.rst:65
 msgid "Στο κάτω μέρος της σελίδας παρουσιάζονται οι τιμές παρακολούθησης."
 msgstr "The trending values are shown at the bottom of the page."
 
 #: ../../Maintenance/Mechbase/introduction.rst:70
-msgid "1.3 Login-Logout"
-msgstr "1.3 Login-Logout"
+msgid "1.3 Σύνδεση-Αποσύνδεση"
+msgstr ""
 
 #: ../../Maintenance/Mechbase/introduction.rst:71
+#, fuzzy
 msgid ""
 "Ο χρήστης μπορεί να αποσυνδεθεί από την εφαρμογή από οποιαδήποτε οθόνη "
-"και αν βρίσκεται κάνοντας κλικ στο όνομα χρήστη και στη συνέχεια στο "
-"'Logout'."
+"και αν βρίσκεται κάνοντας κλικ στο όνομα χρήστη πάνω δεξιά και στη "
+"συνέχεια στο 'Αποσύνδεση'."
 msgstr ""
 "The user can log out from the app from any screen, by clicking the "
 "username and then 'Logout'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:75
+#: ../../Maintenance/Mechbase/introduction.rst:76
+#, fuzzy
 msgid ""
-"Για να ξανασυνδεθείτε μετάβείτε στην σελίδα της εφαρμογής, εισάγετε το "
-"username και το password και κάντε κλικ στο 'Log in'."
+"Για να ξανασυνδεθείτε μεταβείτε στη σελίδα της εφαρμογής, εισάγετε το "
+"Όνομα χρήστη και το Συνθηματικό και κάντε κλικ στο 'Σύνδεση'."
 msgstr ""
 "To log back in, go to the app page, fill in the username and password and"
 " click 'Log in'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:81
+#: ../../Maintenance/Mechbase/introduction.rst:82
 msgid "1.4 Users"
 msgstr "1.4 Users"
 
-#: ../../Maintenance/Mechbase/introduction.rst:82
+#: ../../Maintenance/Mechbase/introduction.rst:83
 msgid "Βήματα για την δημιουργία νέου USER:"
 msgstr "Steps to Creating a New USER:"
 
-#: ../../Maintenance/Mechbase/introduction.rst:84
-#: ../../Maintenance/Mechbase/introduction.rst:121
+#: ../../Maintenance/Mechbase/introduction.rst:85
+#: ../../Maintenance/Mechbase/introduction.rst:122
 msgid "Είσοδος στο django administration."
 msgstr "Enter django administration."
 
-#: ../../Maintenance/Mechbase/introduction.rst:86
-#: ../../Maintenance/Mechbase/introduction.rst:123
+#: ../../Maintenance/Mechbase/introduction.rst:87
+#: ../../Maintenance/Mechbase/introduction.rst:124
 msgid ""
 "*Για την είσοδο στη συγκεκριμένη σελίδα πρέπει να είστε administrator του"
 " συστήματος*."
 msgstr "*To enter this page you have to be a system administrator*."
 
-#: ../../Maintenance/Mechbase/introduction.rst:88
+#: ../../Maintenance/Mechbase/introduction.rst:89
 msgid "Κάνετε click στο User."
 msgstr "Click on User."
 
-#: ../../Maintenance/Mechbase/introduction.rst:92
+#: ../../Maintenance/Mechbase/introduction.rst:93
 msgid ""
 "Αφού έχετε μεταφερθεί στη λίστα με όλους τους Users κάνετε click στο "
 "κουμπί 'ADD USER'."
@@ -207,13 +217,13 @@ msgstr ""
 "After you have been transferred to all of the Users list, click on the "
 "'ADD USER' button."
 
-#: ../../Maintenance/Mechbase/introduction.rst:96
+#: ../../Maintenance/Mechbase/introduction.rst:97
 msgid ""
 "Στην συνέχεια εισάγετε Username και Password και κάνετε κλικ στο κουμπί "
 "'Save and continue editing'."
 msgstr "Then enter Username and Password and click \"Save and continue editing\"."
 
-#: ../../Maintenance/Mechbase/introduction.rst:100
+#: ../../Maintenance/Mechbase/introduction.rst:101
 msgid ""
 "Έχετε μεταφερθεί στο configuration page του user. Σκρολάρετε προς τα κάτω"
 " και πηγαίνετε στην κατηγορία Permissions στο πεδίο User permissions."
@@ -222,7 +232,7 @@ msgstr ""
 "downwards and go to the Permissions category in the field User "
 "permissions."
 
-#: ../../Maintenance/Mechbase/introduction.rst:104
+#: ../../Maintenance/Mechbase/introduction.rst:105
 msgid ""
 "Στο πεδίο filter πληκτρολογείτε την λέξη 'measurements' και κάνετε κλικ "
 "στο κουμπί 'Choose all'."
@@ -230,27 +240,27 @@ msgstr ""
 "In the filter field, type the word 'measurements' and click on the "
 "'Choose all' button."
 
-#: ../../Maintenance/Mechbase/introduction.rst:108
+#: ../../Maintenance/Mechbase/introduction.rst:109
 msgid "Κάνετε τη ίδια διαδικασία και για την λέξη 'routes'."
 msgstr "Do the same procedure for the word 'routes'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:112
+#: ../../Maintenance/Mechbase/introduction.rst:113
 msgid "Τέλος κάνετε 'SAVE'."
 msgstr "Finally click 'SAVE'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:117
+#: ../../Maintenance/Mechbase/introduction.rst:118
 msgid "1.5 Groups"
 msgstr "1.5 Groups"
 
-#: ../../Maintenance/Mechbase/introduction.rst:119
+#: ../../Maintenance/Mechbase/introduction.rst:120
 msgid "Βήματα για την επιλογή permissions ενός group:"
 msgstr "Steps for selecting a group's permissions:"
 
-#: ../../Maintenance/Mechbase/introduction.rst:125
+#: ../../Maintenance/Mechbase/introduction.rst:126
 msgid "Κάνετε click στο 'Groups' και στη συνέχεια το 'ADD GROUP'."
 msgstr "Click 'Groups' and then 'ADD GROUP'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:131
+#: ../../Maintenance/Mechbase/introduction.rst:132
 msgid ""
 "Στη νέα σελίδα που θα εμφανιστεί, πληκτρολογείτε το όνομα του group στο "
 "κενό πεδίο, και επιλέγετε τα permissions που θέλετε να έχει. Κλικάρετε "
@@ -263,7 +273,7 @@ msgstr ""
 "all permissions, or double-click on one or more permissions from the "
 "list. To see all available permissions, scroll down. "
 
-#: ../../Maintenance/Mechbase/introduction.rst:136
+#: ../../Maintenance/Mechbase/introduction.rst:137
 msgid ""
 "Αφού έχετε επιλέξει τα permissions, κλικάρετε 'Save and add another' αν "
 "θέλετε να προσθέσετε και άλλο group, 'Save and continue editing' αν "
@@ -275,11 +285,11 @@ msgstr ""
 " save the changes but you want to edit this group again, or save to save "
 "and close."
 
-#: ../../Maintenance/Mechbase/introduction.rst:140
+#: ../../Maintenance/Mechbase/introduction.rst:141
 msgid "*Επιλογή permissions ενός group σε ένα επίπεδο εγκατάστασης*"
 msgstr "*Selecting permissions of a group for a plant layer*"
 
-#: ../../Maintenance/Mechbase/introduction.rst:142
+#: ../../Maintenance/Mechbase/introduction.rst:143
 msgid ""
 "Περιηγηθείτε μέσω του Mechbase στο επίπεδο εγκατάστασης για το οποίο "
 "θέλετε να βάλετε permissions, και αντιγράψτε το τελευταίο μέρος του "
@@ -289,13 +299,13 @@ msgstr ""
 "permissions, and copy the last part of the link that consists of numbers "
 "and letters."
 
-#: ../../Maintenance/Mechbase/introduction.rst:146
+#: ../../Maintenance/Mechbase/introduction.rst:147
 msgid ""
 "Στη συνέχεια, κάντε εισαγωγή στο django adminitration και κλικάρετε το "
 "'Plant layers'."
 msgstr "Then enter django administration and click 'Plant layers'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:150
+#: ../../Maintenance/Mechbase/introduction.rst:151
 msgid ""
 "Στη νέα σελίδα που θα εμφανιστεί, κάντε επικόλληση το κομμάτι του "
 "συνδέσμου που αντιγράψατε στο κενό πεδίο και κλικάρετε το 'Search'."
@@ -303,21 +313,21 @@ msgstr ""
 "On the new page that appears, paste its part of the link you copied to "
 "the blank field and click 'Search'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:154
+#: ../../Maintenance/Mechbase/introduction.rst:155
 msgid "Κλικάρετε το επίπεδο εγκατάστασης που θα εμφανιστεί."
 msgstr "Click the installation level that will appear."
 
-#: ../../Maintenance/Mechbase/introduction.rst:158
+#: ../../Maintenance/Mechbase/introduction.rst:159
 msgid "Στη σελίδα που θα εμφανιστεί, κάντε κλικ στο 'OBJECT PERMISSIONS'."
 msgstr "On the page that appears, click 'OBJECT PERMISSIONS'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:162
+#: ../../Maintenance/Mechbase/introduction.rst:163
 msgid ""
 "Προσθέτετε το όνομα του γκρούπ στο κενό πεδίο, και κλικάρετε 'Manage "
 "group'."
 msgstr "Add the group name to the blank field, and click 'Manage group'."
 
-#: ../../Maintenance/Mechbase/introduction.rst:166
+#: ../../Maintenance/Mechbase/introduction.rst:167
 msgid ""
 "Τέλος, στη νέα σελίδα επιλέξτε 'Choose all' για να επιλέξετε όλα τα "
 "permissions του group για το επίπεδο εγκατάστασης, ή κάντε διπλό στα "
